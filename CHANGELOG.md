@@ -1,3 +1,9 @@
+## <small>1.0.4 (2026-01-29)</small>
+
+* fix: release on ci ([b4d9e1a](https://github.com/kikobeats/cloudflare-bot-directory/commit/b4d9e1a))
+
+
+
 ## <small>1.0.3 (2026-01-29)</small>
 
 * fix: release on ci ([95c684b](https://github.com/kikobeats/cloudflare-bot-directory/commit/95c684b))
