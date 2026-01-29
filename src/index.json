@@ -252,9 +252,7 @@
     "category": "AI_ASSISTANT",
     "description": "The AGI Agent is a productivity assistant that takes actions and makes purchases on behalf of users",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -363,9 +361,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -377,9 +373,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -391,9 +385,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -405,9 +397,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -419,9 +409,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -433,9 +421,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -447,9 +433,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -461,9 +445,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -475,9 +457,7 @@
     "category": "AI_ASSISTANT",
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -1201,9 +1181,7 @@
     "category": "AI_ASSISTANT",
     "description": "Browserbase helps AI use the web. Autonomously reads, writes, and performs tasks on the web with a serverless browser.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -1329,9 +1307,7 @@
     "category": "AI_ASSISTANT",
     "description": "CartAI B2B rails combine execution, payments, loyalty and affiliate networks to facilitate agentic commerce",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -1442,9 +1418,7 @@
     "category": "AI_ASSISTANT",
     "description": "Agent that can use its own browser to perform tasks for user.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -1520,9 +1494,7 @@
     "category": "PAGE_PREVIEW",
     "description": "Cloudflare Browser Rendering",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -1630,9 +1602,7 @@
     "category": "SECURITY",
     "description": "Cloudflare Radar URL Scanner",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -4066,9 +4036,7 @@
     "category": "AI_SEARCH",
     "description": "Klaviyo’s web crawler for its Kai Customer Agent feature.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -4401,9 +4369,7 @@
     "category": "AI_ASSISTANT",
     "description": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -4968,9 +4934,7 @@
     "category": "AI_ASSISTANT",
     "description": "Executes secure checkout via browser agent using user card and signed mandate.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -5921,9 +5885,7 @@
     "category": "AGGREGATOR",
     "description": "Quartr uses a crawler to obtain and deliver investor relations material",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   },
   {
@@ -8297,9 +8259,7 @@
     "category": "MONITORING_AND_ANALYTICS",
     "description": "zvelo fetches content for web categorization.",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      ""
-    ],
+    "userAgentPatterns": [],
     "userAgents": []
   }
 ]

@@ -17,10 +17,16 @@ const percentage = completed =>
 
 const bots = await pMap(
   allBots,
-  async bot => {
-    const details = await cloudflare(`/bots/${bot.slug}`)
+  async ({ slug }) => {
+    const details = await cloudflare(`/bots/${slug}`)
     process.stdout.write(`…${percentage(++completed)}`)
-    return details.result.bot
+
+    const bot = details.result.bot
+    if (bot.userAgentPatterns.length === 1 && bot.userAgentPatterns[0] === '') {
+      bot.userAgentPatterns = []
+    }
+
+    return bot
   },
   { concurrency: 10 }
 )
