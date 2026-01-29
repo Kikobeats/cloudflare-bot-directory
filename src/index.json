@@ -1169,7 +1169,7 @@
       "BrightEdge Crawler"
     ],
     "userAgents": [
-      "BrightEdge Crawler/1.0 (crawler@brightedge.com) "
+      "BrightEdge Crawler/1.0 (crawler@brightedge.com)"
     ]
   },
   {
@@ -1797,7 +1797,7 @@
       "contentking"
     ],
     "userAgents": [
-      " (+https://whatis.contentkingapp.com)"
+      "(+https://whatis.contentkingapp.com)"
     ]
   },
   {
@@ -2359,7 +2359,7 @@
     "description": "Dr. Link Check crawls websites to help their owners identify and fix broken links.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      " Dlc/"
+      "Dlc/"
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Dlc/2.0.1"
@@ -2557,7 +2557,7 @@
       "ExodusMovement"
     ],
     "userAgents": [
-      "ExodusMovement/1.0 GlobalCoinHeight/1.0\t"
+      "ExodusMovement/1.0 GlobalCoinHeight/1.0"
     ]
   },
   {
@@ -2883,7 +2883,7 @@
     "description": "Ghost Inspector is an automated browser testing framework. ",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      " Ghost Inspector"
+      "Ghost Inspector"
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0 Safari/537.36 Ghost Inspector (63c85ddbde52d6697f57c623)"
@@ -3779,7 +3779,7 @@
       "inoreader.com"
     ],
     "userAgents": [
-      "Mozilla/5.0 (compatible; inoreader.com; "
+      "Mozilla/5.0 (compatible; inoreader.com;"
     ]
   },
   {
@@ -5599,7 +5599,7 @@
     "userAgents": [
       "Pinterest/0.2 (+https://www.pinterest.com/bot.html)",
       "Mozilla/5.0 (compatible; Pinterestbot/1.0; +https://www.pinterest.com/bot.html)",
-      "Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)\t"
+      "Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)"
     ]
   },
   {
@@ -5935,7 +5935,7 @@
     "description": "Rakuten uses this bot to crawl product images so that we can display cashbach deals for our merchants.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      " rakutenusabot-image"
+      "rakutenusabot-image"
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; rakutenusabot-image/1.0) Chrome/114.0.0.0 Safari/537.36"
@@ -8212,10 +8212,10 @@
     "description": "Webhooks for development of Zendesk ticketing system and apps.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      " Zendesk Webhook"
+      "Zendesk Webhook"
     ],
     "userAgents": [
-      " Zendesk Webhook"
+      "Zendesk Webhook"
     ]
   },
   {

@@ -29,9 +29,12 @@ const bots = await pMap(
     }
 
     const bot = details.result.bot
-    if (bot.userAgentPatterns.length === 1 && bot.userAgentPatterns[0] === '') {
-      bot.userAgentPatterns = []
-    }
+    ;['userAgentPatterns', 'userAgents'].forEach(arrayField => {
+      bot[arrayField] = bot[arrayField].map(value => value.trim())
+      if (bot[arrayField].length === 1 && bot[arrayField][0] === '') {
+        bot[arrayField] = []
+      }
+    })
 
     return bot
   },
