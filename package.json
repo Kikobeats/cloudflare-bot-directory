@@ -2,7 +2,7 @@
   "name": "cloudflare-bot-directory",
   "description": "CloudFlare Radar verified bots directory - 500+ web crawlers, search engine bots, and user agents as JSON for bot detection and traffic filtering",
   "homepage": "https://github.com/kikobeats/cloudflare-bot-directory",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "types": "./src/index.d.ts",
   "main": "./src/index.js",
   "exports": {
