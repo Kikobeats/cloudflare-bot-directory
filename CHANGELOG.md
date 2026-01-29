@@ -1,3 +1,9 @@
+## <small>1.0.2 (2026-01-29)</small>
+
+* fix: remove whitespace values ([476d816](https://github.com/kikobeats/cloudflare-bot-directory/commit/476d816))
+
+
+
 ## <small>1.0.1 (2026-01-29)</small>
 
 * test: minimal ([0a9313e](https://github.com/kikobeats/cloudflare-bot-directory/commit/0a9313e))
