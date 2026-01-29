@@ -69,7 +69,7 @@ const isKnownBot = (userAgent) =>
 
 ## License
 
-**cloudflare-bot-directory** © [Kiko Beats](https://kikobeats.com), released under the [MIT](https://github.com/kikobeats/cloudflare-bot-directory/blob/master/LICENSE.md) License.<br>
-Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://github.com/kikobeats/cloudflare-bot-directory/contributors).
+**cloudflare-bot-directory** © [Kiko Beats](https://kikobeats.com), released under the [MIT](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/blob/master/LICENSE.md) License.<br>
+Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/contributors).
 
-> [kikobeats.com](https://kikobeats.com) · GitHub [Kiko Beats](https://github.com/kikobeats) · X [@kikobeats](https://x.com/kikobeats)
+> [kikobeats.com](https://kikobeats.com) · GitHub [Kiko Beats](https://microlinkhq/cloudflare-bot-directory) · X [@kikobeats](https://x.com/kikobeats)
