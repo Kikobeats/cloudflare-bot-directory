@@ -15,11 +15,18 @@ let completed = 0
 const percentage = completed =>
   `${Math.round((completed / allBots.length) * 100)}%`
 
+let previousPercentage = null
+const start = Date.now()
+
 const bots = await pMap(
   allBots,
   async ({ slug }) => {
     const details = await cloudflare(`/bots/${slug}`)
-    process.stdout.write(`…${percentage(++completed)}`)
+    const currentPercentage = percentage(++completed)
+    if (currentPercentage !== previousPercentage) {
+      process.stdout.write(`…${currentPercentage}`)
+      previousPercentage = currentPercentage
+    }
 
     const bot = details.result.bot
     if (bot.userAgentPatterns.length === 1 && bot.userAgentPatterns[0] === '') {
@@ -32,3 +39,4 @@ const bots = await pMap(
 )
 
 await writeFile('src/index.json', JSON.stringify(bots, null, 2))
+process.stdout.write(` in ${(Date.now() - start) / 1000}s\n`)
