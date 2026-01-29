@@ -1,0 +1,32 @@
+name: cron
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Cron job every Monday at 00:00
+    # https://crontab.guru/every-monday
+    - cron: '0 0 * * MON'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+      - name: Update
+        env:
+          CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
+          CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }}
+        run: |
+          git config --global user.email ${{ secrets.GIT_EMAIL }}
+          git config --global user.name ${{ secrets.GIT_USERNAME }}
+          node scripts/fetch-bots.mjs
+          git add src/index.json
+          git diff-index --quiet HEAD || git commit -m 'build(update): bots' --no-verify
+          git push origin ${{ github.head_ref }} || true
