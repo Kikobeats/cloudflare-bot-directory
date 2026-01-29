@@ -1,3 +1,9 @@
+## <small>1.0.6 (2026-01-29)</small>
+
+* chore: migrate repo ([4cf3b9a](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/commits/4cf3b9a))
+
+
+
 ## <small>1.0.5 (2026-01-29)</small>
 
 * Revert "fix: release on ci" ([6477ae1](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/commit/6477ae1))
