@@ -6,7 +6,7 @@
   <br>
 </p>
 
-![Last version](https://img.shields.io/github/tag/kikobeats/cloudflare-bot-directory.svg?style=flat-square)
+![Last version](https://img.shields.io/github/tag/microlinkhq/cloudflare-bot-directory.svg?style=flat-square)
 [![NPM Status](https://img.shields.io/npm/dm/cloudflare-bot-directory.svg?style=flat-square)](https://www.npmjs.org/package/cloudflare-bot-directory)
 
 > A comprehensive list of **500+ verified bots** and web crawlers from [CloudFlare Radar](https://radar.cloudflare.com/traffic/verified-bots), available as a JSON dataset for bot detection, user agent analysis, and web scraping identification.
@@ -69,7 +69,7 @@ const isKnownBot = (userAgent) =>
 
 ## License
 
-**cloudflare-bot-directory** © [Kiko Beats](https://kikobeats.com), released under the [MIT](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/blob/master/LICENSE.md) License.<br>
+**cloudflare-bot-directory** © [Microlink](https://microlink.io), released under the [MIT](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/blob/master/LICENSE.md) License.<br>
 Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/contributors).
 
-> [kikobeats.com](https://kikobeats.com) · GitHub [Kiko Beats](https://microlinkhq/cloudflare-bot-directory) · X [@kikobeats](https://x.com/kikobeats)
+> [microlink.io](https://microlink.io) · GitHub [microlinkhq](https://github.com/microlinkhq) · X [@microlinkhq](https://x.com/microlinkhq)
