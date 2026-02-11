@@ -1,3 +1,8 @@
+## 1.0.7 (2026-02-11)
+
+### Bug Fixes
+
+* cloudflare token ([5f49eca](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/commit/5f49ecad53158aba535ec607c6c1b950d97e00e1))
 ## <small>1.0.6 (2026-01-29)</small>
 
 * chore: migrate repo ([4cf3b9a](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/commits/4cf3b9a))
