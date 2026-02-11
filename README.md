@@ -69,7 +69,7 @@ const isKnownBot = (userAgent) =>
 
 ## License
 
-**cloudflare-bot-directory** © [Microlink](https://microlink.io), released under the [MIT](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/blob/master/LICENSE.md) License.<br>
-Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/contributors).
+**cloudflare-bot-directory** © [Microlink](https://microlink.io), released under the [MIT](https://github.com/microlinkhq/cloudflare-bot-directory/blob/master/LICENSE.md) License.<br>
+Authored and maintained by [Kiko Beats](https://kikobeats.com) with help from [contributors](https://github.com/microlinkhq/cloudflare-bot-directory/contributors).
 
 > [microlink.io](https://microlink.io) · GitHub [microlinkhq](https://github.com/microlinkhq) · X [@microlinkhq](https://x.com/microlinkhq)
