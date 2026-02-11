@@ -558,6 +558,22 @@
     ]
   },
   {
+    "slug": "apify-website-content-crawler",
+    "name": "Apify Website Content Crawler",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://apify.com/apify/website-content-crawler",
+    "category": "AI_ASSISTANT",
+    "description": "Crawl websites and extract content to feed AI apps. Convert web data to Markdown or HTML, download files, and more.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "ApifyWebsiteContentCrawler"
+    ],
+    "userAgents": [
+      "ApifyWebsiteContentCrawler/1.0 (+https://apify.com/apify/website-content-crawler)"
+    ]
+  },
+  {
     "slug": "apple",
     "name": "Applebot",
     "kind": "BOT",
@@ -737,22 +753,6 @@
     ]
   },
   {
-    "slug": "autorag",
-    "name": "AutoRAG",
-    "kind": "BOT",
-    "operator": "Cloudflare",
-    "operatorUrl": "https://developers.cloudflare.com/autorag",
-    "category": "AI_SEARCH",
-    "description": "AutoRAG is an all-in-one AI search solution",
-    "followsRobotsTxt": true,
-    "userAgentPatterns": [
-      "Cloudflare-AutoRAG"
-    ],
-    "userAgents": [
-      "Cloudflare-AutoRAG (https://developers.cloudflare.com/autorag; autorag@cloudflare.com)"
-    ]
-  },
-  {
     "slug": "awario",
     "name": "AwarioSmartBot",
     "kind": "BOT",
@@ -808,7 +808,7 @@
     "operator": "Baidu",
     "operatorUrl": null,
     "category": "SEARCH_ENGINE_CRAWLER",
-    "description": "Baidu's DDoS scrubbing proxy.",
+    "description": "Baidu's scrubbing proxy.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
       "Baidu-ADS"
@@ -1470,6 +1470,22 @@
     ]
   },
   {
+    "slug": "citibotsitecrawler",
+    "name": "CitibotSiteCrawler",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://www.citibot.io/",
+    "category": "AI_CRAWLER",
+    "description": "CitibotSiteCrawler collects public data from government websites to power Citibot’s AI civic engagement tools.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "CitibotSiteCrawler"
+    ],
+    "userAgents": [
+      "CitibotSiteCrawler/1.0"
+    ]
+  },
+  {
     "slug": "clickagy",
     "name": "Clickagy",
     "kind": "BOT",
@@ -1483,6 +1499,22 @@
     ],
     "userAgents": [
       "Clickagy Intelligence Bot v2"
+    ]
+  },
+  {
+    "slug": "cloudflare-ai-search",
+    "name": "AI Search",
+    "kind": "BOT",
+    "operator": "Cloudflare",
+    "operatorUrl": "https://developers.cloudflare.com/ai-search",
+    "category": "AI_SEARCH",
+    "description": "Cloudflare AI Search is a managed service that lets you connect your data and easily build AI-powered search.",
+    "followsRobotsTxt": true,
+    "userAgentPatterns": [
+      "Cloudflare-AI-Search"
+    ],
+    "userAgents": [
+      "Cloudflare-AI-Search (https://developers.cloudflare.com/ai-search; ai-search@cloudflare.com)"
     ]
   },
   {
@@ -1536,7 +1568,7 @@
     "operator": "Cloudflare",
     "operatorUrl": null,
     "category": "MONITORING_AND_ANALYTICS",
-    "description": "Cloudflare diagnostic and testing services.",
+    "description": "Cloudflare system bot that performs health checks and diagnostic tests",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
       "CloudflareDiagnostics"
@@ -2146,7 +2178,7 @@
     "operator": "Daum",
     "operatorUrl": "https://cs.daum.net/faq/15/4118.html?faqId=28966",
     "category": "SEARCH_ENGINE_CRAWLER",
-    "description": "Korean search engine crawler. Added from https://jira.cfops.it/browse/BOTS-1558.",
+    "description": "Korean search engine crawler",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
       "Daum/4.1"
@@ -2181,10 +2213,10 @@
     "description": "The DeepCrawl bot crawls the websites of its customers to collect performance analytics and suggest SEO optimizations.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      "deepcrawl.com/bot"
+      "lumar"
     ],
     "userAgents": [
-      "https://deepcrawl.com/bot"
+      "lumar"
     ]
   },
   {
@@ -3493,6 +3525,18 @@
     "userAgents": [
       "Notabot"
     ]
+  },
+  {
+    "slug": "henry-shopping-agent",
+    "name": "Henry Shopping Agent",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://docs.henrylabs.ai/",
+    "category": "AI_ASSISTANT",
+    "description": "Executes checkout via browser automation using a user's card and signed mandate",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
   },
   {
     "slug": "hetrixtools",
@@ -4893,6 +4937,22 @@
     ]
   },
   {
+    "slug": "nava-labs-asp-dev",
+    "name": "Nava Labs ASP (Dev)",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://dev.labs-asp.navateam.com/bot-disclosure",
+    "category": "AI_ASSISTANT",
+    "description": "Bot to assist social workers in navigating safety net benefit websites.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Nava/"
+    ],
+    "userAgents": [
+      "Nava/"
+    ]
+  },
+  {
     "slug": "naver",
     "name": "Yeti",
     "kind": "BOT",
@@ -5163,6 +5223,18 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; NostoCrawlerBot/1.0; +http://my.nosto.com/tagging)"
     ]
+  },
+  {
+    "slug": "nostra",
+    "name": "Nostra",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://www.nostra.ai/edge-optimization",
+    "category": "SEARCH_ENGINE_OPTIMIZATION",
+    "description": "Nostra accelerates site speed for managed web platforms",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
   },
   {
     "slug": "novellum-ai-crawl",
@@ -5469,6 +5541,30 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; parse.ly scraper/0.16; +http://parsely.com)"
     ]
+  },
+  {
+    "slug": "particlenewsbot",
+    "name": "ParticleNewsBot",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://particle.news/bot",
+    "category": "AGGREGATOR",
+    "description": "Particle is an AI powered aggregator that collects news from many sources",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
+    "slug": "payhawk-invoice-fetching-bot",
+    "name": "Payhawk Invoice Fetching Agent",
+    "kind": "AGENT",
+    "operator": "Payhawk",
+    "operatorUrl": "https://payhawk.com/help/overview-of-the-financial-controller-agent",
+    "category": "AI_ASSISTANT",
+    "description": "Automated browser bot that fetches invoices for users from supplier websites and attaches them to their expense records.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
   },
   {
     "slug": "paypal",
@@ -6134,6 +6230,18 @@
     ]
   },
   {
+    "slug": "ryebot",
+    "name": "RyeBot",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://docs.rye.com/api-v2-experimental/ryebot",
+    "category": "AI_ASSISTANT",
+    "description": "Agentic checkout assistant that purchases products on behalf of end users with their explicit consent.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
     "slug": "salesforce",
     "name": "Salesforce",
     "kind": "BOT",
@@ -6508,7 +6616,7 @@
     "slug": "serankingbacklinksbot",
     "name": "SERankingBacklinksBot",
     "kind": "BOT",
-    "operator": null,
+    "operator": "SE Ranking",
     "operatorUrl": "https://seranking.com/backlinks-crawler",
     "category": "SEARCH_ENGINE_OPTIMIZATION",
     "description": "Crawls the Internet to assist in getting information on the link structure of sites on the web to assist SEO specialists",
@@ -6911,23 +7019,6 @@
     ]
   },
   {
-    "slug": "sogou",
-    "name": "Sogou",
-    "kind": "BOT",
-    "operator": "Sogou",
-    "operatorUrl": "http://www.sogou.com/docs/help/webmasters.htm#07",
-    "category": "SEARCH_ENGINE_CRAWLER",
-    "description": "The Sogou spider is the search engine crawler for Sogou. ",
-    "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      "www.sogou.com"
-    ],
-    "userAgents": [
-      "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
-      "Sogou Pic Spider/3.0( http://www.sogou.com/docs/help/webmasters.htm#07)"
-    ]
-  },
-  {
     "slug": "solarwinds-observability",
     "name": "SolarWinds Observability",
     "kind": "BOT",
@@ -7301,6 +7392,23 @@
     ]
   },
   {
+    "slug": "terracotta",
+    "name": "Terracotta",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://github.com/CeramicTeam/CeramicTerracotta",
+    "category": "SEARCH_ENGINE_CRAWLER",
+    "description": "The Terracotta bot scrapes websites for use in generating indices for serving searches using Ceramic's search product.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Terracotta"
+    ],
+    "userAgents": [
+      "Terracotta",
+      "Terracotta-News"
+    ]
+  },
+  {
     "slug": "thousand-eyes",
     "name": "Thousand Eyes Cloud Agent",
     "kind": "BOT",
@@ -7526,23 +7634,6 @@
     ]
   },
   {
-    "slug": "uptimestatistics",
-    "name": "uptimedoctor",
-    "kind": "BOT",
-    "operator": "uptimedoctor",
-    "operatorUrl": "http://uptimestatistics.com",
-    "category": "MONITORING_AND_ANALYTICS",
-    "description": "UptimeDoctor is a website uptime monitoring service. ",
-    "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      "www.uptimedoctor.com"
-    ],
-    "userAgents": [
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134 www.uptimedoctor.com (username slowmail)",
-      "Mozilla/4.0 (compatible; MSIE 6.0; www.hyperspin.com username mis.admin)"
-    ]
-  },
-  {
     "slug": "uptimia",
     "name": "Uptimia",
     "kind": "BOT",
@@ -7605,6 +7696,18 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; videootvBot; +https://www.videoo.tv)"
     ]
+  },
+  {
+    "slug": "visually-io-shopify-editor",
+    "name": "Visually.io Shopify Editor",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://help.visually.io/visually.io-editor-cloudflare-signed-agent",
+    "category": "AI_ASSISTANT",
+    "description": "Shopify theme editor alternative for live, real-time store editing via a secure iframe and controlled proxy.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
   },
   {
     "slug": "w3-validator-services",
@@ -7717,6 +7820,22 @@
     ],
     "userAgents": [
       "websitepulse checker/3.0 (compatible; MSIE 5.5; Netscape 4.75; Linux)"
+    ]
+  },
+  {
+    "slug": "webstatus247",
+    "name": "Webstatus247",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://www.webstatus247.com/bot-information",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "WebStatus247 is an intelligent website monitoring bot that continuously checks the availability and uptime",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Webstatus247"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Webstatus247/1.0"
     ]
   },
   {
@@ -8016,7 +8135,7 @@
     "operator": "Yahoo",
     "operatorUrl": "https://www.yahoo-help.jp",
     "category": "SEARCH_ENGINE_OPTIMIZATION",
-    "description": "SEO crawler for Yahoo Japan.",
+    "description": "Yahoo Japan search engine crawler for SEO analysis",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
       "J-BRW",
@@ -8168,6 +8287,22 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4280.88 YextBot/Java Safari/537.36"
+    ]
+  },
+  {
+    "slug": "ygs-group-falconer-scraper",
+    "name": "YGS Group Falconer Scraper",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://ygscontentlicensing.com/falconer/",
+    "category": "AI_CRAWLER",
+    "description": "A content based scraper only for partners we collaborate with who have given permission to have their website scraped.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "ygs-scraper-bot"
+    ],
+    "userAgents": [
+      "ygs-scraper-bot/1.0"
     ]
   },
   {
