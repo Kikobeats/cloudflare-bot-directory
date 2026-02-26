@@ -1,7 +1,7 @@
 {
   "name": "cloudflare-bot-directory",
   "description": "CloudFlare Radar verified bots directory - 500+ web crawlers, search engine bots, and user agents as JSON for bot detection and traffic filtering",
-  "homepage": "https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory",
+  "homepage": "https://github.com/microlinkhq/cloudflare-bot-directory",
   "version": "1.0.10",
   "types": "./src/index.d.ts",
   "main": "./src/index.js",
@@ -16,10 +16,10 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory.git"
+    "url": "git+https://github.com/microlinkhq/cloudflare-bot-directory.git"
   },
   "bugs": {
-    "url": "https://microlinkhq/cloudflare-bot-directory/cloudflare-bot-directory/issues"
+    "url": "https://github.com/microlinkhq/cloudflare-bot-directory/issues"
   },
   "keywords": [
     "bingbot",
