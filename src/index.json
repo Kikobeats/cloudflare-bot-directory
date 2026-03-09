@@ -2092,6 +2092,42 @@
     ]
   },
   {
+    "slug": "daric2",
+    "name": "Daric2",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://developers.cloudflare.com/ai-crawl-control/",
+    "category": "AI_CRAWLER",
+    "description": "Cloudflare AI Crawl Control bot 2",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
+    "slug": "daric3",
+    "name": "Daric3",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://developers.cloudflare.com/ai-crawl-control/",
+    "category": "AI_CRAWLER",
+    "description": "Cloudflare AI Crawl Control bot 3",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
+    "slug": "daric4",
+    "name": "Daric4",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://developers.cloudflare.com/ai-crawl-control/",
+    "category": "AI_CRAWLER",
+    "description": "Cloudflare AI Crawl Control bot 4",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
     "slug": "datadog-synthetic-bot",
     "name": "Synthetic Bot",
     "kind": "BOT",
