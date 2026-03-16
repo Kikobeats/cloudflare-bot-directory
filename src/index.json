@@ -1523,11 +1523,15 @@
     "kind": "AGENT",
     "operator": "Cloudflare",
     "operatorUrl": "https://cloudflare.com",
-    "category": "PAGE_PREVIEW",
+    "category": "AI_CRAWLER",
     "description": "Cloudflare Browser Rendering",
     "followsRobotsTxt": false,
-    "userAgentPatterns": [],
-    "userAgents": []
+    "userAgentPatterns": [
+      "CloudflareBrowserRenderingCraw"
+    ],
+    "userAgents": [
+      "CloudflareBrowserRenderingCrawler/1.0"
+    ]
   },
   {
     "slug": "cloudflare-chv",
@@ -4531,6 +4535,22 @@
     ],
     "userAgents": [
       "MediaMonitoringBot/1.1 (+https://mediamonitoringbot.com/crawler; crawler@mediamonitoringbot.com)"
+    ]
+  },
+  {
+    "slug": "mediaboardbot",
+    "name": "mediaboardbot",
+    "kind": "BOT",
+    "operator": "Mediaboard",
+    "operatorUrl": "https://media.mediaboard.com/docs/mediaboardbot",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Mediaboard's web crawler (media monitoring) detects client mentions in online news and public content.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "mediaboardbot"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; mediaboardbot/1.0; +https://www.mediaboard.com/)"
     ]
   },
   {
@@ -7635,6 +7655,22 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Uptime/1.0; http://uptime.com)"
+    ]
+  },
+  {
+    "slug": "uptime-monitoring",
+    "name": "Uptime Monitoring",
+    "kind": "BOT",
+    "operator": "GoDaddy",
+    "operatorUrl": "https://docs.sucuri.net/website-monitoring/understanding-alerts/uptime-monitor-alerts/",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Uptime monitoring is a service that checks if a website is online. It will send you an alert if your website is “down”.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "UptimeMonitoring"
+    ],
+    "userAgents": [
+      "UptimeMonitoring"
     ]
   },
   {
