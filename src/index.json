@@ -898,6 +898,22 @@
     ]
   },
   {
+    "slug": "bigscootsmonitor",
+    "name": "BigScootsMonitor",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://monitor.bigscoots.dev",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "BigScoots Managed Services Monitor - Uptime",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "BigScootsMonitor"
+    ],
+    "userAgents": [
+      "BigScootsMonitor Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+    ]
+  },
+  {
     "slug": "bigupdatabot",
     "name": "BigUpData Bot",
     "kind": "BOT",
@@ -1523,11 +1539,23 @@
     "kind": "AGENT",
     "operator": "Cloudflare",
     "operatorUrl": "https://cloudflare.com",
+    "category": "AI_ASSISTANT",
+    "description": "Renders web pages in headless browsers for Cloudflare customers. Used for browser automation (screenshots, PDF generation, content extraction, etc.) and for AI agents to interact with the web. Used by Cloudflare customers via Workers bindings and REST API. Does not include the /crawl endpoint, which has a separate bot identity (Cloudflare Crawler - Signed Agent).",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
+    "slug": "cloudflare-browser-rendering-crawler",
+    "name": "Cloudflare Crawler",
+    "kind": "AGENT",
+    "operator": "Cloudflare",
+    "operatorUrl": "https://cloudflare.com",
     "category": "AI_CRAWLER",
-    "description": "Cloudflare Browser Rendering",
+    "description": "The Cloudflare Crawler is a well-behaved crawler that retrieves web content. By default, it self-identifies as a bot, honors robots.txt directives, and cannot bypass CAPTCHAs or bot protection. Used by Cloudflare customers via the Browser Rendering /crawl endpoint.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      "CloudflareBrowserRenderingCraw"
+      "CloudflareBrowserRenderingCrawler/1.0"
     ],
     "userAgents": [
       "CloudflareBrowserRenderingCrawler/1.0"
@@ -1595,6 +1623,22 @@
     ],
     "userAgents": [
       "Cloudflare-Healthchecks"
+    ]
+  },
+  {
+    "slug": "cloudflare-observatory-curly",
+    "name": "Cloudflare Observatory Curly",
+    "kind": "BOT",
+    "operator": "Cloudflare",
+    "operatorUrl": "https://developers.cloudflare.com/speed/observatory/",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Synthetic network probes for HTTP timing measurements (TCP, TLS, TTFB). Measures connection timing for customer-owned URLs.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "curly-"
+    ],
+    "userAgents": [
+      "curly-*"
     ]
   },
   {
@@ -2534,6 +2578,22 @@
     ],
     "userAgents": [
       "easyDNS Monitoring ( http://easyurl.net/monitoring )"
+    ]
+  },
+  {
+    "slug": "easyscan",
+    "name": "EasyScan",
+    "kind": "AGENT",
+    "operator": "codire GmbH",
+    "operatorUrl": "https://www.it-recht-kanzlei.de/website-scanner-fuer-mandanten.php",
+    "category": "AI_ASSISTANT",
+    "description": "Automated scanning service that reviews online content on behalf of end users to identify potential legal issues.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "EasyScan"
+    ],
+    "userAgents": [
+      "EasyScan/1.0"
     ]
   },
   {
@@ -3595,6 +3655,22 @@
     ]
   },
   {
+    "slug": "hey-email-privacy-proxy-2",
+    "name": "HEY Email Privacy Proxy",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://www.hey.com/spy-trackers/",
+    "category": "PAGE_PREVIEW",
+    "description": "HEY email stops spy pixels and prevents user IP tracking by proxying all HTML email images, fonts, and external assets",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "hey.com/imageproxy"
+    ],
+    "userAgents": [
+      "hey.com/imageproxy Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    ]
+  },
+  {
     "slug": "hifibot",
     "name": "HIFIBot",
     "kind": "BOT",
@@ -4078,6 +4154,18 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; heritrix/3.4.0 +https://www.kb.dk/netarkivindsamling/) Firefox/57"
     ]
+  },
+  {
+    "slug": "kernel",
+    "name": "Kernel",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://www.kernel.sh/docs",
+    "category": "AI_ASSISTANT",
+    "description": "Kernel is a browsers as a service platform that enables AI agents to browse the internet.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
   },
   {
     "slug": "kinsta-bot",
@@ -8391,6 +8479,22 @@
     ],
     "userAgents": [
       "YokoyGroupAG/1.0"
+    ]
+  },
+  {
+    "slug": "youbot",
+    "name": "YouBot",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://docs.you.com/youbot",
+    "category": "SEARCH_ENGINE_CRAWLER",
+    "description": "You.com Search Engine Crawler",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "YouBot"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; YouBot/1.0; +https://docs.you.com/youbot; env:prod) Chrome/X.X.X.X Safari/537.36"
     ]
   },
   {
