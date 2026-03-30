@@ -1502,6 +1502,22 @@
     ]
   },
   {
+    "slug": "cledara-saas-management-agent",
+    "name": "Cledara SaaS Management Agent",
+    "kind": "AGENT",
+    "operator": "Cledara",
+    "operatorUrl": "https://support.cledara.com/hc/en-us/articles/33745346197010-Cledara-SaaS-Management-Agent",
+    "category": "AI_ASSISTANT",
+    "description": "Cledara’s agent automates customer-approved SaaS admin tasks, including invoice collection and user management.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "CledaraBot"
+    ],
+    "userAgents": [
+      "CledaraBot/1.0"
+    ]
+  },
+  {
     "slug": "clickagy",
     "name": "Clickagy",
     "kind": "BOT",
