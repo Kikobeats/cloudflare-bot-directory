@@ -1506,7 +1506,7 @@
     "name": "Cledara SaaS Management Agent",
     "kind": "AGENT",
     "operator": "Cledara",
-    "operatorUrl": "https://support.cledara.com/hc/en-us/articles/33745346197010-Cledara-SaaS-Management-Agent",
+    "operatorUrl": "https://www.cledara.com",
     "category": "AI_ASSISTANT",
     "description": "Cledara’s agent automates customer-approved SaaS admin tasks, including invoice collection and user management.",
     "followsRobotsTxt": false,
@@ -2952,6 +2952,22 @@
     ]
   },
   {
+    "slug": "flockwp",
+    "name": "FlockWP",
+    "kind": "AGENT",
+    "operator": "FlockWP",
+    "operatorUrl": "https://flockwp.com",
+    "category": "AI_ASSISTANT",
+    "description": "Manages WordPress sites on behalf of authenticated owners. Syncs data, applies updates, and monitors uptime.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "FlockWP"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; FlockWP/1.0; +https://flockwp.com)"
+    ]
+  },
+  {
     "slug": "foregenix-threatview-webscan",
     "name": "Foregenix ThreatView/WebScan",
     "kind": "BOT",
@@ -2966,6 +2982,22 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, Foregenix) Chrome/91.0.4472.77 Safari/537.36",
       "Foregenix ThreatView Security Auditor (threatview.app)"
+    ]
+  },
+  {
+    "slug": "foureff",
+    "name": "foureff",
+    "kind": "AGENT",
+    "operator": "BITS - Benedikt IT Services e.U.",
+    "operatorUrl": "https://www.4f.at",
+    "category": "AI_ASSISTANT",
+    "description": "4F operates a web crawler on behalf of its users. It continuously monitors sites for broken links and failing assets.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "4f.at/crawler"
+    ],
+    "userAgents": [
+      "4f.at/crawler"
     ]
   },
   {
@@ -3112,6 +3144,23 @@
     ],
     "userAgents": [
       "Google-Adwords-Instant (+http://www.google.com/adsbot.html)"
+    ]
+  },
+  {
+    "slug": "google-agent",
+    "name": "Google-Agent",
+    "kind": "AGENT",
+    "operator": "Google",
+    "operatorUrl": "https://developers.google.com/crawling/docs/crawlers-fetchers/google-user-triggered-fetchers#google-agent",
+    "category": "AI_ASSISTANT",
+    "description": "Google-Agent is used by agents hosted on Google infrastructure to navigate the web and perform actions upon user request (e.g., Project Mariner).",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Google-Agent"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Google-Agent; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent) Chrome/W.X.Y.Z Safari/537.36",
+      "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Mobile Safari/537.36 (compatible; Google-Agent; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent)"
     ]
   },
   {
@@ -3637,6 +3686,18 @@
       "Hatena::Fetcher/0.01",
       "Hatena Star UserAgent/2"
     ]
+  },
+  {
+    "slug": "hecbot",
+    "name": "hecBot",
+    "kind": "AGENT",
+    "operator": "Check Point Software Technologies Ltd.",
+    "operatorUrl": "https://www.checkpoint.com/harmony/email-security/",
+    "category": "AI_ASSISTANT",
+    "description": "Scanning links for malicious intent",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
   },
   {
     "slug": "hellowork-bot",
@@ -4256,6 +4317,22 @@
     "userAgents": []
   },
   {
+    "slug": "known-agent",
+    "name": "Known Agent",
+    "kind": "AGENT",
+    "operator": "Known Agents",
+    "operatorUrl": "https://knownagents.com",
+    "category": "AI_ASSISTANT",
+    "description": "Known Agents helps website owners track, control, and optimize traffic from AI agents and bots.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Known Agent"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; Known Agent/1.0; +https://knownagents.com)"
+    ]
+  },
+  {
     "slug": "legalmonster",
     "name": "LegalMonster",
     "kind": "BOT",
@@ -4647,7 +4724,7 @@
     "description": "The Mavifinds Bot is part of a security service that monitors websites. It can automatically activate security measures, such as an under attack mode, in response to threats.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      "Mavifinds \\| Bot"
+      "Mavifinds"
     ],
     "userAgents": [
       "Mavifinds | Bot"
@@ -6290,6 +6367,18 @@
     ]
   },
   {
+    "slug": "redactus-proxy-service",
+    "name": "Redactus Proxy Service",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://bot.redactus.co.uk/proxy",
+    "category": "AI_ASSISTANT",
+    "description": "Redactus Proxy Service: secure filtering proxy for safe and policy-controlled internet access.",
+    "followsRobotsTxt": true,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
     "slug": "reelevant",
     "name": "Reelevant",
     "kind": "BOT",
@@ -6508,6 +6597,22 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Sansec Security Monitor/1.0; +https://sansec.io/monitor)"
+    ]
+  },
+  {
+    "slug": "scavobot",
+    "name": "ScavoBot",
+    "kind": "AGENT",
+    "operator": "Scavo",
+    "operatorUrl": "https://scavo.ai",
+    "category": "AI_ASSISTANT",
+    "description": "User-authorized website monitoring, uptime checks, diagnostics, and compliance scanning for managed sites.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "ScavoBot"
+    ],
+    "userAgents": [
+      "ScavoBot"
     ]
   },
   {
@@ -6983,6 +7088,18 @@
     ]
   },
   {
+    "slug": "silvestro",
+    "name": "Silvestro",
+    "kind": "AGENT",
+    "operator": "Silverstream AI",
+    "operatorUrl": "https://silverstream.ai",
+    "category": "AI_ASSISTANT",
+    "description": "Silvestro/BrowserStream is a browser agent automating daily tasks for people and enterprises.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
     "slug": "site-search-360",
     "name": "SiteSearch360",
     "kind": "BOT",
@@ -7176,6 +7293,22 @@
     ]
   },
   {
+    "slug": "slopsearch",
+    "name": "slopsearch",
+    "kind": "AGENT",
+    "operator": "Christopher Albert",
+    "operatorUrl": "https://sloppy.at",
+    "category": "AI_ASSISTANT",
+    "description": "Research web crawler that indexes publicly available documents. Respects robots.txt and rate limits.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "slopsearch"
+    ],
+    "userAgents": [
+      "slopsearch/1.0 (+https://search.sloppy.at/about)"
+    ]
+  },
+  {
     "slug": "smarsh",
     "name": "SmarshBot",
     "kind": "BOT",
@@ -7349,6 +7482,28 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64; Splunk Synthetics) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.88 Safari/537.36"
+    ]
+  },
+  {
+    "slug": "spyglasses-bot",
+    "name": "Spyglasses Bot",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://www.spyglasses.io/docs/help/spyglasses-bot",
+    "category": "AI_ASSISTANT",
+    "description": "Spyglasses Bot evaluates website content to identify issues that would affect visibility by AI assistants.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "SpyglassesBot"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) Brand Consistency Checker",
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) AI Readiness Audit",
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) FAQ Generation",
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) AI Visibility Report",
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) Page Title Fetcher",
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) Citation Resolver",
+      "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) AI Access Checker"
     ]
   },
   {
