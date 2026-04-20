@@ -196,6 +196,22 @@
     ]
   },
   {
+    "slug": "advailo-kuma",
+    "name": "Advailo Kuma",
+    "kind": "BOT",
+    "operator": "Advailo",
+    "operatorUrl": "https://www.advailo.com/",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "The Advailo Kuma uptime monitor is used to monitor webpage availability and performance.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Advailo Kuma"
+    ],
+    "userAgents": [
+      "Advailo Kuma"
+    ]
+  },
+  {
     "slug": "adyen",
     "name": "Adyen",
     "kind": "BOT",
@@ -241,6 +257,22 @@
     ],
     "userAgents": [
       "aa/1.0"
+    ]
+  },
+  {
+    "slug": "agencytoolspro-uptime-monitoring-bot",
+    "name": "AgencyToolsPro Uptime Monitoring Bot",
+    "kind": "BOT",
+    "operator": "AgencyToolsPro",
+    "operatorUrl": "https://AgencyToolsPro.com/uptime-monitoring-bot",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Website monitoring bot, let's you know that your website is down.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "AgencyToolsPro"
+    ],
+    "userAgents": [
+      "AgencyToolsPro Uptime Monitoring Bot/1.2.7; https://AgencyToolsPro.com/uptime-monitoring-bot"
     ]
   },
   {
@@ -571,6 +603,22 @@
     ],
     "userAgents": [
       "ApifyWebsiteContentCrawler/1.0 (+https://apify.com/apify/website-content-crawler)"
+    ]
+  },
+  {
+    "slug": "appcastbot",
+    "name": "AppcastBot",
+    "kind": "BOT",
+    "operator": "Appcast",
+    "operatorUrl": "https://www.appcast.io",
+    "category": "FEED_FETCHER",
+    "description": "It is used for scraping our clients job postings",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "AppcastParsingBot"
+    ],
+    "userAgents": [
+      "AppcastParsingBot"
     ]
   },
   {
@@ -1470,6 +1518,22 @@
     ]
   },
   {
+    "slug": "checkview-24",
+    "name": "CheckView",
+    "kind": "BOT",
+    "operator": "CheckView.io",
+    "operatorUrl": "https://checkview.io/docs/how-to-whitelist-checkview-ips-in-cloudflare/",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "WordPress automated testing platform",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "CheckView"
+    ],
+    "userAgents": [
+      "CheckView"
+    ]
+  },
+  {
     "slug": "chrome-lighthouse",
     "name": "Chrome-Lighthouse",
     "kind": "BOT",
@@ -1881,6 +1945,22 @@
     ]
   },
   {
+    "slug": "consentcheck",
+    "name": "ConsentCheck Bot",
+    "kind": "BOT",
+    "operator": "ConsentCheck",
+    "operatorUrl": "https://consentcheck.site/",
+    "category": "OTHER",
+    "description": null,
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "consentcheck"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; ConsentCheckBot/1.0; +https://consentcheck.site/bot)"
+    ]
+  },
+  {
     "slug": "contentking",
     "name": "ContentKing",
     "kind": "BOT",
@@ -1990,7 +2070,7 @@
       "CookieYesbot"
     ],
     "userAgents": [
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; CookieYesbot/1.0; +http://www.cookieyes.com/documentation/cookieyesbot) Chrome/131.0.6778.0 Safari/537.36"
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; CookieYesbot/1.0; +http://www.cookieyes.com/documentation/cookieyesbot) Chrome/146.0.0.0 Safari/537.36"
     ]
   },
   {
@@ -2887,6 +2967,22 @@
     ]
   },
   {
+    "slug": "feedotter",
+    "name": "FeedOtter",
+    "kind": "BOT",
+    "operator": "FeedOtter",
+    "operatorUrl": "http://www.feedotter.com/privacy",
+    "category": "FEED_FETCHER",
+    "description": "FeedOtter is a feed fetcher bot that retrieves RSS and Atom feeds for content aggregation and distribution.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "FeedOtter"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; FeedOtter/2.1; +http://www.feedotter.com/privacy) Chrome/126.0.0.0 Safari/537.36"
+    ]
+  },
+  {
     "slug": "feedwind",
     "name": "FeedWind Crawler",
     "kind": "BOT",
@@ -2900,6 +2996,34 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Feedwind/3.0; +https://feed.mikle.com/support/description/)"
+    ]
+  },
+  {
+    "slug": "firmlyai-bot",
+    "name": "FirmlyAI Bot",
+    "kind": "BOT",
+    "operator": "Firmly",
+    "operatorUrl": "https://www.firmly.ai/",
+    "category": "AI_ASSISTANT",
+    "description": "FirmlyAI Bot navigates e-commerce websites for agentic commerce workflows",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
+    "slug": "fishbot",
+    "name": "FishBot",
+    "kind": "BOT",
+    "operator": "FishBot",
+    "operatorUrl": "https://fish.audio",
+    "category": "AI_CRAWLER",
+    "description": "FishBot crawls webpages to deliver Open Source AI for All",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "FishBot"
+    ],
+    "userAgents": [
+      "FishBot"
     ]
   },
   {
@@ -2917,6 +3041,23 @@
     "userAgents": [
       "FeedBurner/1.0 (http://www.FeedBurner.com) Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 Specificfeeds- http://www.specificfeeds.com https://follow.it",
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 Specificfeeds- http://www.specificfeeds.com https://follow.it"
+    ]
+  },
+  {
+    "slug": "flashy-php-1-0-0",
+    "name": "Flashy-PHP/1.0.0",
+    "kind": "BOT",
+    "operator": "https://flashy.app",
+    "operatorUrl": "https://flashy.app/help/integrations/troubleshooting/ip-address-whitelisting/",
+    "category": "WEBHOOKS",
+    "description": "All-In-One Marketing Automation Platform",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Flashy-PHP"
+    ],
+    "userAgents": [
+      "Flashy-PHP/1.0.0",
+      "Flashy-PHP"
     ]
   },
   {
@@ -3034,6 +3175,22 @@
     ]
   },
   {
+    "slug": "fullfact-ingest",
+    "name": "FullFact Ingest",
+    "kind": "BOT",
+    "operator": "FullFact",
+    "operatorUrl": "https://fullfact.ai",
+    "category": "FEED_FETCHER",
+    "description": "It pulls user-submitted RSS feeds every hour to process, extract and identify claims to analyse for misinformation.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "FullFact"
+    ],
+    "userAgents": [
+      "FullFact (FullFact Media Ingest. https://fullfact.ai)"
+    ]
+  },
+  {
     "slug": "fullstorybot",
     "name": "FullStory",
     "kind": "BOT",
@@ -3063,6 +3220,22 @@
     ],
     "userAgents": [
       "Funnelback"
+    ]
+  },
+  {
+    "slug": "gatus",
+    "name": "Gatus",
+    "kind": "BOT",
+    "operator": "Gatus",
+    "operatorUrl": "https://gatus.io",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Gatus.io's advanced endpoint monitoring bot",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Gatus"
+    ],
+    "userAgents": [
+      "Gatus/1.0"
     ]
   },
   {
@@ -3226,22 +3399,6 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.92 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)"
-    ]
-  },
-  {
-    "slug": "google-notebooklm",
-    "name": "Google NotebookLM",
-    "kind": "BOT",
-    "operator": "Google",
-    "operatorUrl": "https://notebooklm.google/",
-    "category": "AI_CRAWLER",
-    "description": "Google NotebookLM bot used by notebooklm.google",
-    "followsRobotsTxt": false,
-    "userAgentPatterns": [
-      "NotebookLM"
-    ],
-    "userAgents": [
-      "Google-NotebookLM"
     ]
   },
   {
@@ -5360,6 +5517,23 @@
     ]
   },
   {
+    "slug": "newsbank",
+    "name": "NewsBank",
+    "kind": "BOT",
+    "operator": "NewsBank",
+    "operatorUrl": "https://www.newsbank.com/",
+    "category": "ARCHIVER",
+    "description": "NewsBank aggregates licensed publisher content for schools, libraries, and government research, learning, and archiving.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "NewsBank"
+    ],
+    "userAgents": [
+      "NewsBank.com/1.0",
+      "NewsBank.comMobile/1.0"
+    ]
+  },
+  {
     "slug": "newsnow",
     "name": "NewsNow",
     "kind": "BOT",
@@ -6060,6 +6234,18 @@
     ]
   },
   {
+    "slug": "pricey",
+    "name": "Pricey",
+    "kind": "AGENT",
+    "operator": "Wilico",
+    "operatorUrl": "https://www.pricey.jp",
+    "category": "AGGREGATOR",
+    "description": "Pricey collects and compares product prices, showing trends and helping users find the best time to buy deals online.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": []
+  },
+  {
     "slug": "printfriendly",
     "name": "PrintFriendly",
     "kind": "BOT",
@@ -6379,6 +6565,22 @@
     "userAgents": []
   },
   {
+    "slug": "redactus-web-classifier",
+    "name": "Redactus Web Classifier",
+    "kind": "AGENT",
+    "operator": "Redactus",
+    "operatorUrl": "https://bot.redactus.co.uk/docs",
+    "category": "SECURITY",
+    "description": "Web classifier: fetches a site’s homepage to assign a category and rechecks periodically.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "RedactusWebClassifier"
+    ],
+    "userAgents": [
+      "RedactusWebClassifier/1.0"
+    ]
+  },
+  {
     "slug": "reelevant",
     "name": "Reelevant",
     "kind": "BOT",
@@ -6555,7 +6757,7 @@
     "slug": "salesforce",
     "name": "Salesforce",
     "kind": "BOT",
-    "operator": "Salseforce",
+    "operator": "Salesforce",
     "operatorUrl": "https://help.salesforce.com/articleView?id=000321501&type=1&mode=1",
     "category": "ADVERTISING_AND_MARKETING",
     "description": "CRM + Marketing",
