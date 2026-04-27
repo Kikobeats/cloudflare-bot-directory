@@ -13,7 +13,8 @@
     ],
     "userAgents": [
       "2checkout"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "360monitoring",
@@ -30,7 +31,8 @@
     "userAgents": [
       "user_agent",
       "monitoring360"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "aasa",
@@ -46,7 +48,8 @@
     ],
     "userAgents": [
       "AASA-Bot/1.0.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "accessible-web-bot",
@@ -63,7 +66,8 @@
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; AccessibleWebBot/1.0; +https://accessibleweb.com/bot/) HeadlessChrome/81.0.4044.0 Safari/537.36",
       "Mozilla/5.0 (compatible; AccessibleWebBot/1.0; +https://accessibleweb.com/bot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "accessstatus",
@@ -79,7 +83,8 @@
     ],
     "userAgents": [
       "AccessStatus/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "acquia-optimize-monsido",
@@ -95,7 +100,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Monsidobot/2.2; +http://monsido.com/bot.html; info@monsido.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "activecomply-bot",
@@ -111,7 +117,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.9 Safari/537.36 (compatible; ActiveComply/2.0; +https://app.activecomply.com/bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "adagiobot",
@@ -127,7 +134,8 @@
     ],
     "userAgents": [
       "Adagiobot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "addsearchbot",
@@ -144,7 +152,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; AddSearchBot/1.0; +http://www.addsearch.com/bot/)",
       "Mozilla/5.0 (compatible; AddSearchBot/1.0; +http://www.addsearch.com/bot; info@addsearch.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "addthis",
@@ -160,7 +169,8 @@
     ],
     "userAgents": [
       "AddThis.com (http://support.addthis.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "adidxbot",
@@ -177,7 +187,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; adidxbot/2.0; +http://www.bing.com/bingbot.htm)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; adidxbot/2.0; +http://www.bing.com/bingbot.htm)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "adstxtcrawler",
@@ -193,7 +204,8 @@
     ],
     "userAgents": [
       "AdsTxtCrawler/1.0; +https://github.com/InteractiveAdvertisingBureau/adstxtcrawler"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "advailo-kuma",
@@ -209,7 +221,8 @@
     ],
     "userAgents": [
       "Advailo Kuma"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "adyen",
@@ -225,7 +238,8 @@
     ],
     "userAgents": [
       "Adyen HttpClient 1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "aftership-magento-2",
@@ -241,7 +255,8 @@
     ],
     "userAgents": [
       "AfterShip Magento-2 Connector"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "agency-analytics-crawler",
@@ -257,7 +272,8 @@
     ],
     "userAgents": [
       "aa/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "agencytoolspro-uptime-monitoring-bot",
@@ -273,7 +289,8 @@
     ],
     "userAgents": [
       "AgencyToolsPro Uptime Monitoring Bot/1.2.7; https://AgencyToolsPro.com/uptime-monitoring-bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "agi-agent-2",
@@ -285,7 +302,8 @@
     "description": "The AGI Agent is a productivity assistant that takes actions and makes purchases on behalf of users",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://api.agi.tech/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "ahrefsbot",
@@ -301,7 +319,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ahrefssiteaudit",
@@ -317,7 +336,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; AhrefsSiteAudit/6.1; +http://ahrefs.com/robot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "akismet",
@@ -333,7 +353,8 @@
     ],
     "userAgents": [
       "Akismet"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "alertsite",
@@ -349,7 +370,8 @@
     ],
     "userAgents": [
       "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; AlertSite)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "algolia",
@@ -366,7 +388,8 @@
     "userAgents": [
       "Algolia Crawler/v2.183.0",
       "Algolia Crawler Renderscript"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "allafrica-crawler",
@@ -382,7 +405,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; AllAfrica NewsBot/1.0)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-ap-northeast-1",
@@ -394,7 +418,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://kzejmtkesloc1.keydirectory.signer.ap-northeast-1.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-ap-south-1",
@@ -406,7 +431,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://wdfzm130yrb91.keydirectory.signer.ap-south-1.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-ap-southeast-1",
@@ -418,7 +444,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://slf696jfe4gp0.keydirectory.signer.ap-southeast-1.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-ap-southeast-2",
@@ -430,7 +457,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://meh0x7tptr6o1.keydirectory.signer.ap-southeast-2.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-eu-central-1",
@@ -442,7 +470,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://o42g509c7dlj6.keydirectory.signer.eu-central-1.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-eu-west-1",
@@ -454,7 +483,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://c3drvlj8gw240.keydirectory.signer.eu-west-1.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-us-east",
@@ -466,7 +496,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://xhah6q48pbxb4.keydirectory.signer.us-east-1.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-us-east-2",
@@ -478,7 +509,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://ogtj5xdh5udp4.keydirectory.signer.us-east-2.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bedrock-agentcore-browser-us-west",
@@ -490,7 +522,8 @@
     "description": "AgentCore Browser provides a secure, cloud-based browser that enables AI agents to interact with websites.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://bxtrz00tv0lm1.keydirectory.signer.us-west-2.on.aws/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "amazon-bot",
@@ -506,7 +539,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Amazonbot/0.1)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "amazon-buyforme",
@@ -522,7 +556,8 @@
     ],
     "userAgents": [
       "Agent/AmazonBuyForMe"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "amazon-contxtbot",
@@ -538,7 +573,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible;contxbot/1.0)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "amazon-kendra",
@@ -555,7 +591,8 @@
     "userAgents": [
       "amazon-kendra-customer-id-[id]",
       "amazon-kendra-web-crawler-*"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "amazonadbot",
@@ -571,7 +608,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; AmazonAdBot/1.0; +https://adbot.amazon.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "anchor-browser",
@@ -587,7 +625,8 @@
     ],
     "userAgents": [
       "Anchor Browser"
-    ]
+    ],
+    "signatureAgentUrl": "https://api.anchorbrowser.io/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "apify-website-content-crawler",
@@ -603,7 +642,8 @@
     ],
     "userAgents": [
       "ApifyWebsiteContentCrawler/1.0 (+https://apify.com/apify/website-content-crawler)"
-    ]
+    ],
+    "signatureAgentUrl": "https://api.apify.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "appcastbot",
@@ -619,7 +659,8 @@
     ],
     "userAgents": [
       "AppcastParsingBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "apple",
@@ -635,7 +676,25 @@
     ],
     "userAgents": [
       "(Applebot/0.1; +http://www.apple.com/go/applebot)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "arachnid-shield-api",
+    "name": "Arachnid Shield API",
+    "kind": "AGENT",
+    "operator": "Canadian Centre for Child Protection",
+    "operatorUrl": "https://projectarachnid.com/en/#shield",
+    "category": "SECURITY",
+    "description": "Fetches a media file upon request of the domain owner and scans it for CSAM.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Arachnid Shield"
+    ],
+    "userAgents": [
+      "Arachnid Shield per <ipaddress> (+https://projectarachnid.com/shield)"
+    ],
+    "signatureAgentUrl": "https://projectarachnid.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "archive-org-bot",
@@ -652,7 +711,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)",
       "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "area-360",
@@ -668,7 +728,25 @@
     ],
     "userAgents": [
       "A360-Search/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "arena-bot",
+    "name": "Arena Bot",
+    "kind": "BOT",
+    "operator": "Arena.im",
+    "operatorUrl": "https://arena.im",
+    "category": "PAGE_PREVIEW",
+    "description": "Link preview bot for Arena.im's live engagement platform. Fetches page previews when URLs are shared in Arena's live chat, live blog, and community tools.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "ArenaBot"
+    ],
+    "userAgents": [
+      "ArenaBot/1.0 (+<https://arena.im/bot/;> contact@arena.im)"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "arquivo",
@@ -684,7 +762,8 @@
     ],
     "userAgents": [
       "Arquivo-web-crawler (compatible; heritrix/3.4.0-20200304 +https://arquivo.pt/faq-crawling)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "artemis-web-reader",
@@ -700,7 +779,8 @@
     ],
     "userAgents": [
       "artemis web reader/1.0 - https://artemis.jamesg.blog/bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "atlassian-bot",
@@ -716,7 +796,8 @@
     ],
     "userAgents": [
       "atlassian-bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "attracta",
@@ -732,7 +813,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Attracta)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "audisto-crawler",
@@ -750,7 +832,8 @@
       "Audisto Crawler (desktop; +https://audisto.com/bot)",
       "Audisto Crawler (mobile; essential; +https://audisto.com/bot)",
       "Audisto Crawler (desktop; essential; +https://audisto.com/bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "authory",
@@ -766,7 +849,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Authory/1.0; +https://authory.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "automaton",
@@ -782,7 +866,8 @@
     ],
     "userAgents": [
       "AutomatonHeadlessChrome"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "automattic-tumblr",
@@ -798,7 +883,8 @@
     ],
     "userAgents": [
       "Tumblr/14.0.835.186"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "awario",
@@ -815,7 +901,8 @@
     "userAgents": [
       "AwarioSmartBot/1.0 (+https://awario.com/bots.html; bots@awario.com)",
       "AwarioRssBot/1.0 (+https://awario.com/bots.html; bots@awario.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "babbar-barkrowler",
@@ -831,7 +918,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "baidu",
@@ -847,7 +935,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "baidu-ads",
@@ -863,7 +952,8 @@
     ],
     "userAgents": [
       "Baidu-ADS"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bazqux",
@@ -879,7 +969,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; BazQux/2.4; +https://bazqux.com/fetcher; 1 subscribers)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bestchange-bot",
@@ -895,7 +986,8 @@
     ],
     "userAgents": [
       "BestChange Bot; https://www.bestchange.com/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "better-uptime",
@@ -911,7 +1003,8 @@
     ],
     "userAgents": [
       "Better Uptime Bot Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bibliotheque-nacional-de-france",
@@ -927,7 +1020,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; bnf.fr_bot; +https://www.bnf.fr/fr/capture-de-votre-site-web-par-le-robot-de-la-bnf)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "big-sur-ai",
@@ -943,7 +1037,8 @@
     ],
     "userAgents": [
       "bigsur.ai (+https://www.bigsur.ai)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bigscootsmonitor",
@@ -959,7 +1054,8 @@
     ],
     "userAgents": [
       "BigScootsMonitor Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bigupdatabot",
@@ -975,7 +1071,8 @@
     ],
     "userAgents": [
       "BigUpDataBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "binarycanary",
@@ -991,7 +1088,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Chirp/1.0; +http://www.binarycanary.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bing",
@@ -1008,7 +1106,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
       "Mozilla/5.3 (compatible; bingbot/2.1; +http://www.bing.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bingpreview",
@@ -1025,7 +1124,8 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b",
       "Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 530) like Gecko BingPreview/1.0b"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bitbucket",
@@ -1041,7 +1141,8 @@
     ],
     "userAgents": [
       "Bitbucket-Webhooks/2.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "black-duck-fast-dynamic",
@@ -1057,7 +1158,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 FastDAST/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "blexbot",
@@ -1073,7 +1175,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bling-erp",
@@ -1089,7 +1192,8 @@
     ],
     "userAgents": [
       "BlingERP"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "blockaid",
@@ -1105,7 +1209,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 36b1546a5700e52eb2972b3f92b314fa"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "blogtrottr",
@@ -1121,7 +1226,8 @@
     ],
     "userAgents": [
       "Blogtrottr/2.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "blogvault",
@@ -1137,7 +1243,8 @@
     ],
     "userAgents": [
       "BlogVault/1.0 (+https://blogvault.net)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bluesky-app",
@@ -1153,7 +1260,8 @@
     ],
     "userAgents": [
       "Bluesky/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "boardgameprices-bot",
@@ -1169,7 +1277,8 @@
     ],
     "userAgents": [
       "BoardGamePrices Bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "boneybadgerbot",
@@ -1185,7 +1294,8 @@
     ],
     "userAgents": [
       "Honeybadger Uptime Check"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "botify",
@@ -1202,7 +1312,8 @@
     "userAgents": [
       "Desktop: Mozilla/5.0 (compatible; botify; http://botify.com)",
       "Desktop: Mozilla/5.0 (compatible; botify; http://botify.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bravebot",
@@ -1218,7 +1329,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bravebot/1.0; +https://search.brave.com/help/brave-search-crawler) Chrome/W.X.Y.Z Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "brightedgebot",
@@ -1234,7 +1346,8 @@
     ],
     "userAgents": [
       "BrightEdge Crawler/1.0 (crawler@brightedge.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "browserbase",
@@ -1246,7 +1359,8 @@
     "description": "Browserbase helps AI use the web. Autonomously reads, writes, and performs tasks on the web with a serverless browser.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://www.browserbase.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "bufferlinkpreviewbot",
@@ -1262,7 +1376,8 @@
     ],
     "userAgents": [
       "BufferLinkPreviewBot/1.0 (+https://scraper.buffer.com/about/bots/link-preview-bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bugsnag",
@@ -1278,7 +1393,25 @@
     ],
     "userAgents": [
       "BugsNag"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "builtwith",
+    "name": "BuiltWith",
+    "kind": "BOT",
+    "operator": "BuiltWith",
+    "operatorUrl": "https://builtwith.com/biup",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Find out what websites are built with.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "BuiltWith"
+    ],
+    "userAgents": [
+      "BuiltWith"
+    ],
+    "signatureAgentUrl": "https://builtwith.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "bushbaby",
@@ -1294,7 +1427,8 @@
     ],
     "userAgents": [
       "bushbaby/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "buttondown-rss-feed-parser",
@@ -1310,7 +1444,8 @@
     ],
     "userAgents": [
       "Buttondown RSS-Feed-Parser/1.0 (https://buttondown.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "bytedance-toutiao",
@@ -1328,7 +1463,8 @@
       "Mozilla/5.0 (compatible; Bytespider; https://zhanzhang.toutiao.com/) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36",
       "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "caliperbot",
@@ -1344,7 +1480,8 @@
     ],
     "userAgents": [
       "Caliperbot/1.0 (+http://www.conductor.com/caliperbot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "capitalonebot",
@@ -1360,7 +1497,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36 CapitalOneBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cartai-agentic-commerce-as-a-service",
@@ -1372,7 +1510,8 @@
     "description": "CartAI B2B rails combine execution, payments, loyalty and affiliate networks to facilitate agentic commerce",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://cartai.us/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "catchpoint",
@@ -1390,7 +1529,8 @@
       "Mozilla/4.0 (compatible; Catchpoint)",
       "Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D; Catchpoint) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19",
       "Mozilla/5.0 (X11; Linux x86_64; Catchpoint) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.90 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cert-chief",
@@ -1406,7 +1546,8 @@
     ],
     "userAgents": [
       "CertChief/8714fb40 (+https://cert.chief.app)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cf-digicert-dcv",
@@ -1422,7 +1563,8 @@
     ],
     "userAgents": [
       "Digicert DCV"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "channable-importer",
@@ -1438,7 +1580,8 @@
     ],
     "userAgents": [
       "channable/importer/<system specific string>"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "channel3bot",
@@ -1455,7 +1598,8 @@
     "userAgents": [
       "Channel3/1.0 (+https://trychannel3.com/channel3bot)",
       "Mozilla/5.0 (compatible; Channel3Bot/1.0; +https://trychannel3.com/channel3bot)"
-    ]
+    ],
+    "signatureAgentUrl": "https://bot.trychannel3.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "chargebee",
@@ -1471,7 +1615,8 @@
     ],
     "userAgents": [
       "ChargeBee"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "chatgpt-agent",
@@ -1483,7 +1628,8 @@
     "description": "Agent that can use its own browser to perform tasks for user.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://chatgpt.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "chatgpt-user",
@@ -1499,7 +1645,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "checkly",
@@ -1515,7 +1662,8 @@
     ],
     "userAgents": [
       "Checkly/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "checkview-24",
@@ -1531,7 +1679,8 @@
     ],
     "userAgents": [
       "CheckView"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "chrome-lighthouse",
@@ -1547,7 +1696,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/69.0.3464.0 Mobile Safari/537.36 Chrome-Lighthouse"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "citibotsitecrawler",
@@ -1563,7 +1713,8 @@
     ],
     "userAgents": [
       "CitibotSiteCrawler/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cledara-saas-management-agent",
@@ -1579,7 +1730,8 @@
     ],
     "userAgents": [
       "CledaraBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://gerard.cledara.ai/.well-known/http-message-signatures-directory/"
   },
   {
     "slug": "clickagy",
@@ -1595,7 +1747,8 @@
     ],
     "userAgents": [
       "Clickagy Intelligence Bot v2"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-ai-search",
@@ -1611,7 +1764,8 @@
     ],
     "userAgents": [
       "Cloudflare-AI-Search (https://developers.cloudflare.com/ai-search; ai-search@cloudflare.com)"
-    ]
+    ],
+    "signatureAgentUrl": "https://search.ai.cloudflare.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "cloudflare-browser-rendering",
@@ -1623,7 +1777,8 @@
     "description": "Renders web pages in headless browsers for Cloudflare customers. Used for browser automation (screenshots, PDF generation, content extraction, etc.) and for AI agents to interact with the web. Used by Cloudflare customers via Workers bindings and REST API. Does not include the /crawl endpoint, which has a separate bot identity (Cloudflare Crawler - Signed Agent).",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://web-bot-auth.cloudflare-browser-rendering-085.workers.dev/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "cloudflare-browser-rendering-crawler",
@@ -1639,7 +1794,8 @@
     ],
     "userAgents": [
       "CloudflareBrowserRenderingCrawler/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://web-bot-auth-crawl.cloudflare-browser-rendering-085.workers.dev/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "cloudflare-chv",
@@ -1655,7 +1811,8 @@
     ],
     "userAgents": [
       "Cloudflare Custom Hostname Verification"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-collapsify",
@@ -1671,7 +1828,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:60.0) Gecko/20100101 Firefox/60.0 Collapsify/0.6.0 node/v10.16.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-diagnostics",
@@ -1687,7 +1845,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 CloudflareDiagnostics/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-health-checks",
@@ -1703,7 +1862,8 @@
     ],
     "userAgents": [
       "Cloudflare-Healthchecks"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-observatory-curly",
@@ -1719,7 +1879,8 @@
     ],
     "userAgents": [
       "curly-*"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-prefetch",
@@ -1735,7 +1896,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; CloudFlare-Prefetch/0.1; +http://www.cloudflare.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-purge",
@@ -1751,7 +1913,8 @@
     ],
     "userAgents": [
       "Cloudflare-Purge/2.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-radar-url-scanner",
@@ -1763,7 +1926,8 @@
     "description": "Cloudflare Radar URL Scanner",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://web-bot-auth-directory.radar-cfdata-org.workers.dev/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "cloudflare-speedtest",
@@ -1779,7 +1943,8 @@
     ],
     "userAgents": [
       "Cloudflare SpeedTest"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-ssl-detector",
@@ -1795,7 +1960,8 @@
     ],
     "userAgents": [
       "Cloudflare-SSLDetector"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-stream-webhook",
@@ -1811,7 +1977,8 @@
     ],
     "userAgents": [
       "Cloudflare Stream Webhook"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-traffic-manager",
@@ -1827,7 +1994,8 @@
     ],
     "userAgents": [
       "Cloudflare-Traffic-Manager"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflare-validator",
@@ -1843,7 +2011,8 @@
     ],
     "userAgents": [
       "Cloudflare-Validator/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudflarecsup",
@@ -1859,7 +2028,8 @@
     ],
     "userAgents": [
       "cloudflare-csup"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cloudtrellis",
@@ -1878,7 +2048,8 @@
       "Cloudtrellis/1.0",
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Cloudtrellis/1.0; +https://www.cloudtrellis.com/robot) Chrome/126.0.6478.126 Safari/537.36",
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Cloudtrellis/1.0) Chrome/126.0.6478.126 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cludobot",
@@ -1894,7 +2065,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; cludo.com bot) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3133.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "coccocbot",
@@ -1910,7 +2082,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; coccocbot-fast/1.0; +http://help.coccoc.com/searchengine)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cognitiveseo",
@@ -1926,7 +2099,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36 - James BOT - WebCrawler http://cognitiveseo.com/bot.html"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "coinbase",
@@ -1942,7 +2116,21 @@
     ],
     "userAgents": [
       "weipay-webhooks/"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "composer",
+    "name": "Composer",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://trycomposer.ai/home",
+    "category": "AI_ASSISTANT",
+    "description": "Composer is an AI assistant that navigates the web, automating knowledge work on behalf of you.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": [],
+    "signatureAgentUrl": "https://trycomposer.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "consentcheck",
@@ -1958,7 +2146,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; ConsentCheckBot/1.0; +https://consentcheck.site/bot)"
-    ]
+    ],
+    "signatureAgentUrl": "https://consentcheck.site/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "contentking",
@@ -1974,7 +2163,8 @@
     ],
     "userAgents": [
       "(+https://whatis.contentkingapp.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "contextualbot",
@@ -1990,7 +2180,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; ContextualBot/ 1.0; +http://outcomes.net)."
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "convermaxbot",
@@ -2006,7 +2197,8 @@
     ],
     "userAgents": [
       "Convermax/1.0 (+https://docs.convermax.com/indexer)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cookie-hub",
@@ -2023,7 +2215,8 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 CookieHubScan/1.1",
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 CookieHubVerify/1.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cookiebot",
@@ -2039,7 +2232,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Cookiebot/1.0; +http://cookiebot.com/) Chrome/101.0.4951.54 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cookiemaestro",
@@ -2055,7 +2249,8 @@
     ],
     "userAgents": [
       "cookie-maestro"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cookieyesbot",
@@ -2071,7 +2266,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; CookieYesbot/1.0; +http://www.cookieyes.com/documentation/cookieyesbot) Chrome/146.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cotoyogi",
@@ -2087,7 +2283,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Cotoyogi/4.0; +https://ds.rois.ac.jp/center8/crawler/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "coveobot",
@@ -2103,7 +2300,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) (compatible; Coveobot/2.0;+http://www.coveo.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cozi-icalendar",
@@ -2119,7 +2317,8 @@
     ],
     "userAgents": [
       "Cozi-iCalendar-FeedReader"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "crawlson",
@@ -2135,7 +2334,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Crawlson/1.0; +https://www.crawlson.com/domain)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "crazy-egg-bot",
@@ -2153,7 +2353,8 @@
       "Crazy Egg Bot",
       "Crazy Egg Bot (Mobile)",
       "Crazy Egg Bot (Tablet)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "criteobot",
@@ -2169,7 +2370,8 @@
     ],
     "userAgents": [
       "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "criticalcssbot",
@@ -2185,7 +2387,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.0 Safari/537.36 Criticalcss.com/2.0.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cronjob",
@@ -2201,7 +2404,8 @@
     ],
     "userAgents": [
       "http://cron-job.org/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cxensebot",
@@ -2217,7 +2421,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US) AppleWebKit/537.36 (KHTML, like Gecko) cXensebot/2.0; +http://www.cxense.com/bot.html Safari/533.3\t3615\t155430223\t0.03793830424547195\tclarin.com\t5.9.190.107\tbot-5-9-190-107.cxensebot.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "cybaa-bot",
@@ -2233,7 +2438,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 CybaaBot"
-    ]
+    ],
+    "signatureAgentUrl": "https://cybaa.io/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "daric2",
@@ -2245,7 +2451,8 @@
     "description": "Cloudflare AI Crawl Control bot 2",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://9ed846ee-31d6-4dc7-be9c-c57d769a68c8.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "daric3",
@@ -2257,7 +2464,8 @@
     "description": "Cloudflare AI Crawl Control bot 3",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://fce34b5f-e942-453c-8203-efa46f63136e.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "daric4",
@@ -2269,7 +2477,8 @@
     "description": "Cloudflare AI Crawl Control bot 4",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://9183a4a8-5a53-4cb3-8d59-16ae94b9f950.wba-bots.ai-audit.cfdata.org/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "datadog-synthetic-bot",
@@ -2285,7 +2494,8 @@
     ],
     "userAgents": [
       "Datadog Synthetic"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "dataforseo-bot",
@@ -2301,7 +2511,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "dataforseo-siteauditor",
@@ -2317,7 +2528,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; RSiteAuditor)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "dataprovider-com",
@@ -2333,7 +2545,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Dataprovider.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "datenbank",
@@ -2349,7 +2562,8 @@
     ],
     "userAgents": [
       "netEstate NE Crawler (+http://www.website-datenbank.de/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "daum",
@@ -2365,7 +2579,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "deadlinkchecker",
@@ -2381,7 +2596,26 @@
     ],
     "userAgents": [
       "www.deadlinkchecker.com Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "deck-agent",
+    "name": "Deck Agent",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://docs.deck.co/",
+    "category": "AI_ASSISTANT",
+    "description": "Deck provides a unified API for connecting to external sources, running jobs, and retrieving structured results.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "DeckAgent"
+    ],
+    "userAgents": [
+      "DeckAgent",
+      "DeckAI"
+    ],
+    "signatureAgentUrl": "https://agent.deck.co/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "deepcrawl",
@@ -2397,7 +2631,8 @@
     ],
     "userAgents": [
       "lumar"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "detectify",
@@ -2414,7 +2649,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; Detectify) +https://detectify.com/bot/3e03814aef1db3cec70f42dd847e9ef5b37f4c8e",
       "Mozilla/5.0 (compatible; Detectify)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "determ",
@@ -2430,7 +2666,8 @@
     ],
     "userAgents": [
       "Mediatoolkitbot (complaints@mediatoolkit.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "devin",
@@ -2446,7 +2683,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36; Devin/1.0; +https://devin.ai"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "digicert-dcv",
@@ -2463,7 +2701,8 @@
     "userAgents": [
       "DigiCert DCV Bot/1.0",
       "DigiCert DCV Bot/1.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "direqt-anomura",
@@ -2479,7 +2718,8 @@
     ],
     "userAgents": [
       "Anomura/1.2 (+https://www.direqt.ai)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "discord-bot",
@@ -2495,7 +2735,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "dotbot",
@@ -2511,7 +2752,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "dotcom-monitor",
@@ -2527,7 +2769,8 @@
     ],
     "userAgents": [
       "DMBrowser/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "doubleverify",
@@ -2543,7 +2786,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 6.3;compatible; Leikibot/1.0; +http://www.leiki.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "drata",
@@ -2559,7 +2803,8 @@
     ],
     "userAgents": [
       "Dratabot (+https://dratabot.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "drift-agent",
@@ -2571,7 +2816,8 @@
     "description": "The Drift Agent executes security and compliance tasks on behalf of the CISO office.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://api.driftsecurity.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "drlinkcheck",
@@ -2587,7 +2833,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Dlc/2.0.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "duckassistbot",
@@ -2603,7 +2850,8 @@
     ],
     "userAgents": [
       "DuckAssistBot/1.1; (+http://duckduckgo.com/duckassistbot.html)"
-    ]
+    ],
+    "signatureAgentUrl": "https://assistbot.duckduckgo.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "duckduckbot",
@@ -2619,7 +2867,8 @@
     ],
     "userAgents": [
       "DuckDuckBot/1.0; (+http://duckduckgo.com/duckduckbot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "eRepublik-tools",
@@ -2637,7 +2886,8 @@
       "eRepublik.tools - Multithreaded Crawler - Organization Profile - v0.0.1",
       "eRepublik.tools - Multithreaded Crawler - Leaderboard - v0.1.0",
       "eRepublik.tools Crawler/1.0 (Sebastian Foth - Software Solutions)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "easybill-import-manager",
@@ -2654,7 +2904,8 @@
     "userAgents": [
       "easybill-ImportManager/ShopwareClient",
       "easybill-ImportManager"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "easycron",
@@ -2670,7 +2921,8 @@
     ],
     "userAgents": [
       "EasyCron/1.0 (https://www.easycron.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "easydns",
@@ -2686,7 +2938,8 @@
     ],
     "userAgents": [
       "easyDNS Monitoring ( http://easyurl.net/monitoring )"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "easyscan",
@@ -2702,7 +2955,8 @@
     ],
     "userAgents": [
       "EasyScan/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://admin.itrk-easysafe.de/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "echoboxbot",
@@ -2718,7 +2972,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; EchoboxBot/1.0; hash/w4mwnpbXf3MFAbxOkJRw; +http://www.echobox.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "elmahio-uptimebot",
@@ -2734,7 +2989,8 @@
     ],
     "userAgents": [
       "elmahio-uptimebot/2.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "emoneybot",
@@ -2750,7 +3006,8 @@
     ],
     "userAgents": [
       "eMoneyBot/1.0; +https://emoneyadvisor.com/DataAggregationNotice/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "epivoz-crawler",
@@ -2766,7 +3023,8 @@
     ],
     "userAgents": [
       "EpivozCrawler/1.7"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "evo-uptime-bot",
@@ -2782,7 +3040,8 @@
     ],
     "userAgents": [
       "EvoUptimeBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "exodus-movement",
@@ -2798,7 +3057,8 @@
     ],
     "userAgents": [
       "ExodusMovement/1.0 GlobalCoinHeight/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ezoicbot",
@@ -2814,7 +3074,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36 (compatible; EzLynx/0.1; +http://www.ezoic.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "facebook",
@@ -2832,7 +3093,8 @@
       "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)",
       "facebookexternalhit/1.1",
       "facebookcatalog/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "factset-spyderbot",
@@ -2848,7 +3110,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0(windows NT 10.0; Win64; x64) AppleWebkit/537.36(KHTML, like Gecko)  Chrome/90.0.4430.72  Safari/537.36 factset_spyderbot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fastmail-bot",
@@ -2865,7 +3128,8 @@
     "userAgents": [
       "FastmailUA/1.0",
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36 FastmailUA/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fdl-stats-bot",
@@ -2881,7 +3145,8 @@
     ],
     "userAgents": [
       "FDL Stats Bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fedicaapp",
@@ -2898,7 +3163,8 @@
     "userAgents": [
       "Fedicabot",
       "FedicaApp"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fedreporter-bot-for-ffiec-2",
@@ -2915,7 +3181,8 @@
     "userAgents": [
       "FedReporterDataBot/1.0 (+https://fedreporter.net/FedReporterBotDocumentation; contact: support@fedreporter.net)",
       "FedReporterDataBot-Testing/0.1 (+https://dev-pipe1.fedreporter.net/FedReporterBotDocumentation; contact: support@fedreporter.net)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "feedbin",
@@ -2932,7 +3199,8 @@
     "userAgents": [
       "Feedbin\t3",
       "Feedbin feed-id:311 - 1 subscribers"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "feeder",
@@ -2948,7 +3216,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (feeder.co; Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "feedly",
@@ -2964,7 +3233,8 @@
     ],
     "userAgents": [
       "Feedly/1.0 (+http://www.feedly.com/fetcher.html; 1 subscribers; like FeedFetcher-Google)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "feedotter",
@@ -2980,7 +3250,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; FeedOtter/2.1; +http://www.feedotter.com/privacy) Chrome/126.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "feedwind",
@@ -2996,7 +3267,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Feedwind/3.0; +https://feed.mikle.com/support/description/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "firmlyai-bot",
@@ -3008,7 +3280,8 @@
     "description": "FirmlyAI Bot navigates e-commerce websites for agentic commerce workflows",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://api.firmly.online/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "fishbot",
@@ -3024,7 +3297,8 @@
     ],
     "userAgents": [
       "FishBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fit-feeds-fetcher",
@@ -3041,7 +3315,8 @@
     "userAgents": [
       "FeedBurner/1.0 (http://www.FeedBurner.com) Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 Specificfeeds- http://www.specificfeeds.com https://follow.it",
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 Specificfeeds- http://www.specificfeeds.com https://follow.it"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "flashy-php-1-0-0",
@@ -3058,7 +3333,8 @@
     "userAgents": [
       "Flashy-PHP/1.0.0",
       "Flashy-PHP"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "flipboard",
@@ -3074,7 +3350,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:49.0) Gecko/20100101 Firefox/49.0 (FlipboardProxy/1.2; +http://flipboard.com/browserproxy)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "flipboardrss",
@@ -3090,7 +3367,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; FlipboardRSS/1.2; +http://flipboard.com/browserproxy)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "flockwp",
@@ -3106,7 +3384,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; FlockWP/1.0; +https://flockwp.com)"
-    ]
+    ],
+    "signatureAgentUrl": "https://flockwp.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "foregenix-threatview-webscan",
@@ -3123,7 +3402,8 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, Foregenix) Chrome/91.0.4472.77 Safari/537.36",
       "Foregenix ThreatView Security Auditor (threatview.app)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "foureff",
@@ -3139,7 +3419,8 @@
     ],
     "userAgents": [
       "4f.at/crawler"
-    ]
+    ],
+    "signatureAgentUrl": "https://www.4f.at/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "freespoke",
@@ -3155,7 +3436,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Freespoke/2.0; +https://crawler.freespoke.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "freshping",
@@ -3172,7 +3454,8 @@
     "userAgents": [
       "FreshpingBot/1.0 (+https://freshping.io/)",
       "FreshpingBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fullfact-ingest",
@@ -3188,7 +3471,8 @@
     ],
     "userAgents": [
       "FullFact (FullFact Media Ingest. https://fullfact.ai)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "fullstorybot",
@@ -3204,7 +3488,8 @@
     ],
     "userAgents": [
       "FullStoryBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "funnelback",
@@ -3220,7 +3505,8 @@
     ],
     "userAgents": [
       "Funnelback"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "gatus",
@@ -3236,7 +3522,8 @@
     ],
     "userAgents": [
       "Gatus/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ghost-inspector",
@@ -3252,7 +3539,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0 Safari/537.36 Ghost Inspector (63c85ddbde52d6697f57c623)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "gigabot",
@@ -3268,7 +3556,8 @@
     ],
     "userAgents": [
       "Gigabot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google",
@@ -3285,7 +3574,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-adwords-express",
@@ -3301,7 +3591,8 @@
     ],
     "userAgents": [
       "Google-AdWords-Express"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-adwords-instant",
@@ -3317,7 +3608,8 @@
     ],
     "userAgents": [
       "Google-Adwords-Instant (+http://www.google.com/adsbot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-agent",
@@ -3334,7 +3626,43 @@
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Google-Agent; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent) Chrome/W.X.Y.Z Safari/537.36",
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Mobile Safari/537.36 (compatible; Google-Agent; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent)"
-    ]
+    ],
+    "signatureAgentUrl": "https://agent.bot.goog/.well-known/http-message-signatures-directory"
+  },
+  {
+    "slug": "google-businesslinkverification",
+    "name": "Google-BusinessLinkVerification",
+    "kind": "BOT",
+    "operator": "Google",
+    "operatorUrl": "https://support.google.com/business/answer/13769188",
+    "category": "SECURITY",
+    "description": "To ensure business information on Google is accurate and trustworthy, we verify the links you provide",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Google-BusinessLinkVerifi"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google-BusinessLinkVerification) Chrome/141.0.7390.122 Safari/537.36",
+      "Google-BusinessLinkVerification"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "google-calendar-importer-2",
+    "name": "Google Calendar Importer",
+    "kind": "BOT",
+    "operator": "Google",
+    "operatorUrl": "https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop",
+    "category": "FEED_FETCHER",
+    "description": "Google Calendar Importer is used by Google Calendar to sync with url based calendar feeds.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Google-Calendar-Importer"
+    ],
+    "userAgents": [
+      "Google-Calendar-Importer"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-cloudvertexbot",
@@ -3351,7 +3679,8 @@
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[CHROME_VERSION] Mobile Safari/537.36 (compatible; Google-CloudVertexBot; +https://cloud.google.com/enterprise-search)",
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Google-CloudVertexBot; +https://cloud.google.com/enterprise-search) Chrome/[CHROME_VERSION] Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-digital-asset-links",
@@ -3367,7 +3696,8 @@
     ],
     "userAgents": [
       "GoogleAssociationService/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-firebase-bot",
@@ -3383,7 +3713,25 @@
     ],
     "userAgents": [
       "Google-Firebase"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "google-flights-search-spackle",
+    "name": "Google-Flights-Search-Spackle",
+    "kind": "BOT",
+    "operator": "Google",
+    "operatorUrl": "https://www.google.com/travel/flights/saves",
+    "category": "SEARCH_ENGINE_CRAWLER",
+    "description": "Google's user-triggered fetcher for flight search. Fetches airline and travel site content on behalf of end-user searches to compile flight pricing and availability data.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Google-Flights-Search-Spackle"
+    ],
+    "userAgents": [
+      "Google-Flights-Search-Spackle"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-inspection-tool",
@@ -3399,7 +3747,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.92 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0;)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-other",
@@ -3415,7 +3764,8 @@
     ],
     "userAgents": [
       "GoogleOther"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-pagerenderer-3",
@@ -3431,7 +3781,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 Google-PageRenderer Google (+https://developers.google.com/+/web/snippet/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-publisher-center",
@@ -3447,7 +3798,8 @@
     ],
     "userAgents": [
       "GoogleProducer; (+https://developers.google.com/search/docs/crawling-indexing/google-producer)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-safety",
@@ -3464,7 +3816,8 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 (compatible; Google-Safety; +http://www.google.com/bot.html)",
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Google-Safety; +http://www.google.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-scholar",
@@ -3480,7 +3833,8 @@
     ],
     "userAgents": [
       "Googlebot-IA/2.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-site-verification",
@@ -3496,7 +3850,25 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Google-Site-Verification/1.0)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "google-travelads-live",
+    "name": "Google-TravelAds-Live",
+    "kind": "BOT",
+    "operator": "Google",
+    "operatorUrl": "https://developers.google.com/hotels/hotel-prices/dev-guide/query-messages",
+    "category": "ADVERTISING_AND_MARKETING",
+    "description": "The Google-TravelAds-Live User-agent is a bot by Google that crawls websites to collect travel ad data.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Google-TravelAds-Live"
+    ],
+    "userAgents": [
+      "Google-TravelAds-Live"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-trust-services",
@@ -3512,7 +3884,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Google-Trust-Services/2.0; http://pki.goog/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "google-web-snippet-2",
@@ -3528,7 +3901,25 @@
     ],
     "userAgents": [
       "Google-PageRenderer Google (+https://developers.google.com/+/web/snippet/)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "google-xrawler",
+    "name": "google-xrawler",
+    "kind": "BOT",
+    "operator": "Google",
+    "operatorUrl": "https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers",
+    "category": "SEARCH_ENGINE_CRAWLER",
+    "description": "Google's user-triggered fetcher for merchant product feeds. Fetches XML product feeds from e-commerce sites for syncing with Google Merchant Center.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "google-xrawler"
+    ],
+    "userAgents": [
+      "google-xrawler"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googleads",
@@ -3544,7 +3935,8 @@
     ],
     "userAgents": [
       "AdsBot-Google (+http://www.google.com/adsbot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googleapi",
@@ -3560,7 +3952,8 @@
     ],
     "userAgents": [
       "APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googlebotimages",
@@ -3576,7 +3969,8 @@
     ],
     "userAgents": [
       "Googlebot-Image/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googlebotvideos",
@@ -3592,7 +3986,8 @@
     ],
     "userAgents": [
       "Googlebot-Video/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googledata",
@@ -3608,7 +4003,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Google-Structured-Data-Testing-Tool +https://search.google.com/structured-data/testing-tool)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googledisplayads",
@@ -3624,7 +4020,8 @@
     ],
     "userAgents": [
       "Google-Display-Ads-Bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googlefeedfetcher",
@@ -3641,7 +4038,8 @@
     "userAgents": [
       "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)",
       "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googleimageproxy",
@@ -3657,7 +4055,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googlemedia",
@@ -3673,7 +4072,8 @@
     ],
     "userAgents": [
       "Mediapartners-Google"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "googlereadaloud",
@@ -3689,7 +4089,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "gopay",
@@ -3705,7 +4106,8 @@
     ],
     "userAgents": [
       "GoPay"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "gptbot",
@@ -3721,7 +4123,8 @@
     ],
     "userAgents": [
       "GPTBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "grafana-labs",
@@ -3737,7 +4140,25 @@
     ],
     "userAgents": [
       "synthetic-monitoring-agent/v0.20.1-0-g66af84ad (linux amd64; 66af84ad6a8755895d4b69606281ca7354c1589a; 2024-02-12 16:50:07+00:00; +https://github.com/grafana/synthetic-monitoring-agent)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "grafana-synthetic-monitoring-2",
+    "name": "Grafana Synthetic Monitoring",
+    "kind": "BOT",
+    "operator": "Grafana Labs",
+    "operatorUrl": "https://grafana.com/docs/grafana-cloud/testing/synthetic-monitoring/",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Grafana Synthetic Monitoring",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "synthetic-monitoring-agent"
+    ],
+    "userAgents": [
+      "synthetic-monitoring-agent"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "grapeshot",
@@ -3754,7 +4175,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1. 4 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "groovinads",
@@ -3770,7 +4192,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; GroovinaAdsbot/1.0; +https://www.groovinads.com/en/#bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "gtmetrix",
@@ -3786,7 +4209,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64; GTmetrix https://gtmetrix.com/) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "guestpostsbot",
@@ -3802,7 +4226,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; GuestpostsBot/2.0; +https://guestposts.com.br/blog/robot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "haiku-searchbot",
@@ -3818,7 +4243,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Haiku-SearchBot/1.0; +https://haiku.fr/robots-doc"
-    ]
+    ],
+    "signatureAgentUrl": "https://harvest.haiku.fr/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "hatena",
@@ -3842,7 +4268,8 @@
       "HatenaBookmark/0.03",
       "Hatena::Fetcher/0.01",
       "Hatena Star UserAgent/2"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hecbot",
@@ -3854,7 +4281,8 @@
     "description": "Scanning links for malicious intent",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://www.checkpoint.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "hellowork-bot",
@@ -3870,7 +4298,8 @@
     ],
     "userAgents": [
       "HelloworkJobPostingBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "helpfeel-notabot",
@@ -3886,7 +4315,8 @@
     ],
     "userAgents": [
       "Notabot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "henry-shopping-agent",
@@ -3898,7 +4328,8 @@
     "description": "Executes checkout via browser automation using a user's card and signed mandate",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://www.henrylabs.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "hetrixtools",
@@ -3914,7 +4345,8 @@
     ],
     "userAgents": [
       "HetrixTools Uptime Monitoring Bot. https://hetrix.tools/uptime-monitoring-bot.html"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hey-email-privacy-proxy-2",
@@ -3930,7 +4362,8 @@
     ],
     "userAgents": [
       "hey.com/imageproxy Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hifibot",
@@ -3946,7 +4379,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; HIFIBot/1; +https://hi.fi)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hosttracker",
@@ -3962,7 +4396,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible;HostTracker/2.0;+http://www.host-tracker.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hotjar",
@@ -3978,7 +4413,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Hotjar Version/11.0 Mobile/15E148 Safari/604.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hstspreload-bot",
@@ -3994,7 +4430,8 @@
     ],
     "userAgents": [
       "hstspreload-bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hubspot-crawler",
@@ -4010,7 +4447,8 @@
     ],
     "userAgents": [
       "HubSpot Crawler 1.0 http://www.hubspot.com/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hubspot-feed-fetcher",
@@ -4026,7 +4464,8 @@
     ],
     "userAgents": [
       "HubSpot-FeedFetcher"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hubspot-page-fetcher",
@@ -4042,7 +4481,8 @@
     ],
     "userAgents": [
       "HubSpot Page Fetcher/1.0 http://www.hubspot.com/ web-crawlers@hubspot.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "huckabot",
@@ -4058,7 +4498,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Huckabot/0.0; +https://huckabuy.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "hypemachine",
@@ -4074,7 +4515,8 @@
     ],
     "userAgents": [
       "Hype Machine/4.0 hypem.com (anthony@hypem.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ias-crawler",
@@ -4090,7 +4532,8 @@
     ],
     "userAgents": [
       "IAS crawler (ias_crawler; http://integralads.com/site-indexing-policy/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "iboubot-3",
@@ -4106,7 +4549,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; IbouBot/1.0; +bot@ibou.io; +https://ibou.io/iboubot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "icccrawler",
@@ -4122,7 +4566,28 @@
     ],
     "userAgents": [
       "ICC-Crawler/3.0 (Mozilla-compatible; ; https://ucri.nict.go.jp/en/icccrawler.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "idealo-2",
+    "name": "Idealo",
+    "kind": "BOT",
+    "operator": "Idealo internet GmbH",
+    "operatorUrl": "https://partner.idealo.com/de/bot",
+    "category": "AGGREGATOR",
+    "description": "Germany's largest price comparison service. Runs four crawler variants (pricevalidator, badgechecker, inventoryanalyser, inventory-image-downloader) to verify partner shop prices, check badge integration, analyse inventory, and download product images.",
+    "followsRobotsTxt": true,
+    "userAgentPatterns": [
+      "idealo-bot"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; idealo-bot pricevalidator; https://partner.idealo.com/de/bot/)",
+      "Mozilla/5.0 (compatible; idealo-bot badgechecker; https://partner.idealo.com/de/bot/)",
+      "Mozilla/5.0 (compatible; idealo-bot inventoryanalyser; https://partner.idealo.com/de/bot)",
+      "Mozilla/5.0 (compatible; idealo-bot inventory-image-downloader; https://partner.idealo.com/de/bot)"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "iframely",
@@ -4138,7 +4603,8 @@
     ],
     "userAgents": [
       "Iframely/1.3.1 (+https://iframely.com/docs/about)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ifttt-rss-feed-service",
@@ -4154,7 +4620,8 @@
     ],
     "userAgents": [
       "IFTTT/1.0 (https://ifttt.com/support)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "indeedjobbot",
@@ -4170,7 +4637,8 @@
     ],
     "userAgents": [
       "IndeedJobBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "innguma-fetcher",
@@ -4186,7 +4654,8 @@
     ],
     "userAgents": [
       "Innguma/1.0 (+https://factory.innguma.com/fetcher/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "innologica",
@@ -4202,7 +4671,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; inoreader.com;"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "instapaper",
@@ -4220,7 +4690,8 @@
     "userAgents": [
       "Instapaper/4.0",
       "Instaparser/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "integromatbot",
@@ -4236,7 +4707,8 @@
     ],
     "userAgents": [
       "Integromat/production"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "internet-archive-archive-it",
@@ -4255,7 +4727,8 @@
       "Mozilla/5.0 (X11; Linux x86_64; archive.org_bot; Archive-It; +http://archive-it.org/files/site-owners.html) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
       "Mozilla/5.0 (compatible; special_archiver; Archive-It; +@http://archive-it.org/files/site-owners-special.html)",
       "Mozilla/5.0 (compatible; archive.org_bot; Archive-It; +@http://archive-it.org/files/site-owners.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "internet-archive-bot",
@@ -4271,7 +4744,8 @@
     ],
     "userAgents": [
       "IABot/2.0 (+https://meta.wikimedia.org/wiki/InternetArchiveBot/FAQ_for_sysadmins) (Checking if link from Wikipedia is broken and needs removal)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "isdownbot",
@@ -4287,7 +4761,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; IsDownBot/1.0;)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "jagged-pixel-uptime",
@@ -4303,7 +4778,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; UptimeBot/1.0; +https://www.getuptime.co)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "jetpack",
@@ -4319,7 +4795,8 @@
     ],
     "userAgents": [
       "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "jobswithgptcom-bot",
@@ -4335,7 +4812,8 @@
     ],
     "userAgents": [
       "jobswithgptcom-bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "jumio",
@@ -4351,7 +4829,8 @@
     ],
     "userAgents": [
       "Jumio"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "kagi",
@@ -4367,7 +4846,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Kagibot/1.0; +https://kagi.com/bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "kakaotalk-scrap-2",
@@ -4383,7 +4863,8 @@
     ],
     "userAgents": [
       "kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "kargobot-artemis",
@@ -4399,7 +4880,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 (compatible; KargoBot-Artemis-Mobile; +https://www.kargo.com/kargobot-artemis)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "kb-dk-bot",
@@ -4415,7 +4897,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; heritrix/3.4.0 +https://www.kb.dk/netarkivindsamling/) Firefox/57"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "kernel",
@@ -4427,7 +4910,8 @@
     "description": "Kernel is a browsers as a service platform that enables AI agents to browse the internet.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://www.kernel.sh/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "kinsta-bot",
@@ -4443,7 +4927,8 @@
     ],
     "userAgents": [
       "kinsta-bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "klaviyo",
@@ -4459,7 +4944,8 @@
     ],
     "userAgents": [
       "Klaviyo/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "klaviyoaibot",
@@ -4471,7 +4957,8 @@
     "description": "Klaviyo’s web crawler for its Kai Customer Agent feature.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://www.klaviyo.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "known-agent",
@@ -4487,7 +4974,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Known Agent/1.0; +https://knownagents.com)"
-    ]
+    ],
+    "signatureAgentUrl": "https://knownagents.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "legalmonster",
@@ -4503,7 +4991,8 @@
     ],
     "userAgents": [
       "LegalMonster"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "letsencrypt",
@@ -4519,7 +5008,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "level-9-search-bot",
@@ -4535,7 +5025,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Level9SearchBot/2-1.5)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "library-of-congress-web-archiving",
@@ -4551,7 +5042,25 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 (+https://www.loc.gov/programs/web-archiving/for-site-owners/)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "line-ogp-scraper",
+    "name": "LINE OGP Scraper",
+    "kind": "BOT",
+    "operator": "LINE",
+    "operatorUrl": "https://poker.line.naver.jp/",
+    "category": "SOCIAL_MEDIA_MARKETING",
+    "description": "A scraper to get OGP by LINE Corporation",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "line-poker"
+    ],
+    "userAgents": [
+      "facebookexternalhit/1.1;line-poker/1.0"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "liner-bot",
@@ -4567,7 +5076,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; LinerBot/1.0; +https://docs.getliner.com/docs/linerbot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "linespider",
@@ -4583,7 +5093,8 @@
     ],
     "userAgents": [
       "Linespider"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "linkcheckerpro",
@@ -4599,7 +5110,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; LinkCheckerBot/2.0; +https://linkchecker.pro/robot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "linkedin",
@@ -4616,7 +5128,8 @@
     "userAgents": [
       "LinkedInBot/1.0 (compatible; Mozilla/5.0; +http://www.linkedin.com)",
       "LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "linksindexerbot",
@@ -4632,7 +5145,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; LinksIndexerBot/1.0; +http://linksindexer.com/bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "linktiger",
@@ -4648,7 +5162,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36 LinkTiger"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "logicmonitor",
@@ -4664,7 +5179,8 @@
     ],
     "userAgents": [
       "LogicMonitor SiteMonitor/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "loomlybot",
@@ -4680,7 +5196,8 @@
     ],
     "userAgents": [
       "LoomlyBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "macrobondbot",
@@ -4696,7 +5213,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Macrobondbot +http://redir.macrobond.com/go/bot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "magibot",
@@ -4712,7 +5230,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MagiBot/1.0.0; Matarael; +https://magi.com/bots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "magnetmebot",
@@ -4728,7 +5247,8 @@
     ],
     "userAgents": [
       "Magnet.me-web/1.0 (+https://magnet.me/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "magpiecrawler",
@@ -4744,7 +5264,8 @@
     ],
     "userAgents": [
       "magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mail-ru-bot",
@@ -4760,7 +5281,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mainwp",
@@ -4776,7 +5298,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MainWP/4.2.7.1; +http://mainwp.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "make-platform",
@@ -4792,7 +5315,8 @@
     ],
     "userAgents": [
       "Make/production"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "managewp",
@@ -4808,7 +5332,8 @@
     ],
     "userAgents": [
       "ManageWP"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "manus-bot",
@@ -4820,7 +5345,8 @@
     "description": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://api.manus.im/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "marginaliabot",
@@ -4836,7 +5362,8 @@
     ],
     "userAgents": [
       "search.marginalia.nu"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "marketgoo",
@@ -4853,7 +5380,8 @@
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10 MarketGoo/2.1",
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0 MarketGoo/2.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mars-finder",
@@ -4869,7 +5397,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) (dbot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mavifinds-bot",
@@ -4885,7 +5414,8 @@
     ],
     "userAgents": [
       "Mavifinds | Bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "media-monitoring-bot",
@@ -4901,7 +5431,8 @@
     ],
     "userAgents": [
       "MediaMonitoringBot/1.1 (+https://mediamonitoringbot.com/crawler; crawler@mediamonitoringbot.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mediaboardbot",
@@ -4917,7 +5448,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; mediaboardbot/1.0; +https://www.mediaboard.com/)"
-    ]
+    ],
+    "signatureAgentUrl": "https://media.mediaboard.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "medialogiabot",
@@ -4933,7 +5465,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MedialogiaBot; +http://home.prod.mlg.ru/bots.txt)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mediavine-metadata-parser",
@@ -4949,7 +5482,8 @@
     ],
     "userAgents": [
       "MediavineMetadataParser/7.7.3"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "melonmesabot",
@@ -4965,7 +5499,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; CentComBot/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "meta-externalads",
@@ -4983,7 +5518,8 @@
       "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
       "meta-externalads/1.1",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 (compatible; meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "meta-externalagent",
@@ -5000,7 +5536,8 @@
     "userAgents": [
       "meta-externalagent/1.1",
       "meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "meta-externalfetcher",
@@ -5016,7 +5553,8 @@
     ],
     "userAgents": [
       "meta-externalfetcher/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "meta-web-indexer",
@@ -5033,7 +5571,8 @@
     "userAgents": [
       "meta-webindexer/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
       "meta-webindexer/1.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "metorik",
@@ -5049,7 +5588,8 @@
     ],
     "userAgents": [
       "Metorik API Client/2.0.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mgidbot",
@@ -5065,7 +5605,8 @@
     ],
     "userAgents": [
       "MgidBot 1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "microsoftpreview",
@@ -5081,7 +5622,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MicrosoftPreview/2.0; +https://aka.ms/MicrosoftPreview)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mirrorwebcrawler",
@@ -5097,7 +5639,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 +https://www.mirrorweb.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "missinglettrbot",
@@ -5113,7 +5656,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MissinglettrBot/2.0; +http://missinglettr.com/bot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mistralai-user",
@@ -5129,7 +5673,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; MistralAI-User/1.0; +https://docs.mistral.ai/robots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mj12bot",
@@ -5145,7 +5690,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "modular-ds",
@@ -5161,7 +5707,8 @@
     ],
     "userAgents": [
       "ModularConnector/1.0 (Linux)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mojeekbot",
@@ -5177,7 +5724,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MojeekBot/0.6; +https://www.mojeek.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "molliebot",
@@ -5193,7 +5741,8 @@
     ],
     "userAgents": [
       "Mollie HTTP client/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mon-spark",
@@ -5209,7 +5758,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0+(compatible; MonSpark/1.0; http://www.monspark.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "monitage",
@@ -5225,7 +5775,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; MonitageUptime/1.1; +http://monitage.com/uptime) Chrome/136.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "monitis",
@@ -5241,7 +5792,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; monitis - premium monitoring service; http://www.monitis.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "monitorss",
@@ -5257,7 +5809,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0 MonitoRSS/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "montasticmonitor",
@@ -5273,7 +5826,8 @@
     ],
     "userAgents": [
       "montastic-monitor http://www.montastic.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "motominerbot",
@@ -5289,7 +5843,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MotoMinerBot/1.0; +https://motominer.com/Bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mrgbot",
@@ -5306,7 +5861,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; MRGbot/1.0; +https://www.mrg.ro/bot.html)",
       "Mozilla/5.0 (compatible; MRGbot/1.0;"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "msnbot",
@@ -5323,7 +5879,8 @@
     "userAgents": [
       "msnbot/1.1 ( http://search.msn.com/msnbot.htm)",
       "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "muck-rack-scraper",
@@ -5340,7 +5897,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; MuckRack/1.0; +https://muckrack.com)",
       "MuckRackFeedParser/1.0 +https://muckrack.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "mushilabs-clearscopebot",
@@ -5356,7 +5914,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Clearscopebot/1.0)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nava-labs-asp-dev",
@@ -5372,7 +5931,8 @@
     ],
     "userAgents": [
       "Nava/"
-    ]
+    ],
+    "signatureAgentUrl": "https://dev.labs-asp.navateam.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "naver",
@@ -5389,7 +5949,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; Yeti/1.1; +http://naver.me/spd)",
       "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.0 Safari/537.36 (compatible; Yeti/1.1; +http://naver.me/spd)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "neevabot",
@@ -5405,7 +5966,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Neevabot/1.0; +https://neeva.com/neevabot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nekuda-payment-executor",
@@ -5417,7 +5979,8 @@
     "description": "Executes secure checkout via browser agent using user card and signed mandate.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://nekuda-agent-registry.onrender.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "netcraft",
@@ -5434,7 +5997,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)",
       "Mozilla/4.0 (compatible; Netcraft Web Server Survey)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "netumo",
@@ -5450,7 +6014,8 @@
     ],
     "userAgents": [
       "netumo"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "netvigie",
@@ -5466,7 +6031,8 @@
     ],
     "userAgents": [
       "Mozilla [...] Chrome [...] NETVIGIE"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "new-york-times-newsgathering",
@@ -5478,11 +6044,12 @@
     "description": "Coders within NYT's newsroom collect public, non-copyright data, e.g. our U.S. Elections pages and Covid-19 trackers.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
-      "scraping@nytimes.com"
+      "scraping@nytimes\\.com"
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 nyt_scraping/scraping@nytimes.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "newrelic",
@@ -5498,7 +6065,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; NewRelicbot/2.1; +http://www.newrelic.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "news-blur",
@@ -5514,7 +6082,8 @@
     ],
     "userAgents": [
       "NewsBlur Feed Fetcher"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "newsbank",
@@ -5531,7 +6100,8 @@
     "userAgents": [
       "NewsBank.com/1.0",
       "NewsBank.comMobile/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "newsnow",
@@ -5547,7 +6117,8 @@
     ],
     "userAgents": [
       "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT) NewsNow/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nitro",
@@ -5565,7 +6136,8 @@
       "Nitro-Warmup-Agent",
       "Nitro-Webhook-Agent",
       "Nitro-Optimizer-Agent"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nixstats",
@@ -5581,7 +6153,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; NIXStatsbot/1.1; +http://www.nixstats.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nodeping",
@@ -5597,7 +6170,8 @@
     ],
     "userAgents": [
       "NodePing"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "noibu",
@@ -5613,7 +6187,8 @@
     ],
     "userAgents": [
       "Noibu JS Beautifier"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "noorobot",
@@ -5629,7 +6204,8 @@
     ],
     "userAgents": [
       "noorobot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nooshub",
@@ -5645,7 +6221,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Nooshub/1.0; +https://www.nooshub.com/statics/bots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nostocrawlerbot",
@@ -5661,7 +6238,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; NostoCrawlerBot/1.0; +http://my.nosto.com/tagging)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "nostra",
@@ -5673,7 +6251,8 @@
     "description": "Nostra accelerates site speed for managed web platforms",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://bots.nostra.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "novellum-ai-crawl",
@@ -5689,7 +6268,8 @@
     ],
     "userAgents": [
       "Novellum"
-    ]
+    ],
+    "signatureAgentUrl": "https://crawl.corp.novellum.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "oai-searchbot",
@@ -5705,7 +6285,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ohdear",
@@ -5722,7 +6303,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; OhDear/1.1; +https://ohdear.app/checker",
       "OhDear.app (+https://ohdear.app/docs/checks/uptime)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "okx-dolphin-crawler",
@@ -5738,7 +6320,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OKX-dolphin-crawler"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "omnisend",
@@ -5754,7 +6337,8 @@
     ],
     "userAgents": [
       "Omnisend/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "oncrawl",
@@ -5771,7 +6355,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; OnCrawl Mobile/1.0; +http://www.oncrawl.com/)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4 (compatible; OnCrawl Mobile/1.0; +http://www.oncrawl.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "onetrust-cmp-scanner",
@@ -5787,7 +6372,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.199 Safari/537.36;OneTrust;"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "online-webceo-bot",
@@ -5803,7 +6389,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; online-webceo-bot/1.0; +http://online.webceo.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "onlineornot",
@@ -5819,7 +6406,8 @@
     ],
     "userAgents": [
       "OnlineOrNot.com_bot_1.0_(https://onlineornot.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "opengraphbot",
@@ -5835,7 +6423,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; OpenGraph.io/1.1; +https://opengraph.io/ AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "openrss",
@@ -5851,7 +6440,8 @@
     ],
     "userAgents": [
       "OpenRSS"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "orlo-link-preview",
@@ -5867,7 +6457,8 @@
     ],
     "userAgents": [
       "Orlo-LinkPreview/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "outbrain",
@@ -5883,7 +6474,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Java) outbrain"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "outsell-url-validator",
@@ -5899,7 +6491,8 @@
     ],
     "userAgents": [
       "OutsellURLValidator"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "overcast",
@@ -5915,7 +6508,8 @@
     ],
     "userAgents": [
       "Overcast/1.0 Podcast Sync (123 subscribers; feed-id=456789; +http://overcast.fm/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ozon-web-grabber",
@@ -5931,7 +6525,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; OdklBot/1.0 like Linux; klass@odnoklassniki.ru)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "paddle-webhooks",
@@ -5947,7 +6542,8 @@
     ],
     "userAgents": [
       "Paddle"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "paesslermonitoring",
@@ -5963,7 +6559,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; PRTGCloudBot/1.0; +http://www.paessler.com/prtgcloudbot; for_[edf7e62f223b268942b7efa36b6be1e305fcdadb])"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "panopta",
@@ -5979,7 +6576,8 @@
     ],
     "userAgents": [
       "Panopta v1.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "parsely",
@@ -5995,7 +6593,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; parse.ly scraper/0.16; +http://parsely.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "particlenewsbot",
@@ -6007,7 +6606,8 @@
     "description": "Particle is an AI powered aggregator that collects news from many sources",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://api.minalabs.io/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "payhawk-invoice-fetching-bot",
@@ -6019,7 +6619,8 @@
     "description": "Automated browser bot that fetches invoices for users from supplier websites and attaches them to their expense records.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://external-bot.payhawk.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "paypal",
@@ -6036,7 +6637,8 @@
     "userAgents": [
       "PayPal/AUHR-214.0-51787073",
       "PayPal IPN ( https://www.paypal.com/ipn )"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "payroll-bot",
@@ -6052,7 +6654,8 @@
     ],
     "userAgents": [
       "AdpResearchBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://payroll-bot.adp.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "pci-qualys",
@@ -6068,7 +6671,21 @@
     ],
     "userAgents": [
       "cf-qualys-scanner"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "perplexity-user-4",
+    "name": "Perplexity‑User",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://docs.perplexity.ai/guides/bots",
+    "category": "AI_ASSISTANT",
+    "description": "Webmasters can use the following robots.txt tags to manage how their sites and content interact with Perplexity.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": [],
+    "signatureAgentUrl": "https://www.perplexity.com/perplexity-user.json"
   },
   {
     "slug": "petalbot",
@@ -6085,7 +6702,8 @@
     "userAgents": [
       "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
       "Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pingdom",
@@ -6101,7 +6719,8 @@
     ],
     "userAgents": [
       "Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pingping",
@@ -6117,7 +6736,8 @@
     ],
     "userAgents": [
       "pingping.io/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pingpingbot",
@@ -6133,7 +6753,8 @@
     ],
     "userAgents": [
       "pingping.io/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pinterest",
@@ -6151,7 +6772,8 @@
       "Pinterest/0.2 (+https://www.pinterest.com/bot.html)",
       "Mozilla/5.0 (compatible; Pinterestbot/1.0; +https://www.pinterest.com/bot.html)",
       "Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pocketcasts-feed-parser",
@@ -6167,7 +6789,8 @@
     ],
     "userAgents": [
       "PocketCasts/1.0 (Pocket Casts Feed Parser; +http://pocketcasts.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "polar",
@@ -6183,7 +6806,8 @@
     ],
     "userAgents": [
       "polar.sh webhooks"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "potions",
@@ -6199,7 +6823,8 @@
     ],
     "userAgents": [
       "Potions/1.0.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "prerender",
@@ -6215,7 +6840,8 @@
     ],
     "userAgents": [
       "Prerender"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "press-engine-bot",
@@ -6231,7 +6857,8 @@
     ],
     "userAgents": [
       "PressEngineBot (+http://pressengine.net/crawl-policy)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pricey",
@@ -6243,7 +6870,8 @@
     "description": "Pricey collects and compares product prices, showing trends and helping users find the best time to buy deals online.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://web-bot-auth-keys.wilico-ppc-bot.workers.dev/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "printfriendly",
@@ -6259,7 +6887,8 @@
     ],
     "userAgents": [
       "PrintFriendly.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pro-sitemaps",
@@ -6275,7 +6904,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Pro Sitemaps Generator; pro-sitemaps.com) Gecko Pro-Sitemaps/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "productsup-crawler",
@@ -6291,7 +6921,8 @@
     ],
     "userAgents": [
       "productsup.io/crawler"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "project-honeypot",
@@ -6307,7 +6938,8 @@
     ],
     "userAgents": [
       "PHPot Verispider v0.1 - http://www.projecthoneypot.org/"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "project-shield-urlcheck",
@@ -6323,7 +6955,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; ProjectShield-UrlCheck; +http://g.co/projectshield)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "protopage",
@@ -6339,7 +6972,8 @@
     ],
     "userAgents": [
       "Protopage/3.0 (http://www.protopage.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "proximic",
@@ -6356,7 +6990,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)",
       "Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pulsetic-8",
@@ -6372,7 +7007,8 @@
     ],
     "userAgents": [
       "pulsetic.com (+https://pulsetic.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "pwabuilder",
@@ -6388,7 +7024,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57 PWABuilderHttpAgent"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "qualifiedbot",
@@ -6405,7 +7042,8 @@
     "userAgents": [
       "QualifiedBot/1.0",
       "Mozilla/5.0 (compatible; QualifiedBot/1.0; +https://www.qualified.com/legal/qualified-crawler-user-agent)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "qualys",
@@ -6421,7 +7059,8 @@
     ],
     "userAgents": [
       "SSL Labs"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "quantcastbot",
@@ -6437,7 +7076,8 @@
     ],
     "userAgents": [
       "Quantcastbot/1.0 (+http://www.quantcast.com/bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "quartr-crawler",
@@ -6449,7 +7089,8 @@
     "description": "Quartr uses a crawler to obtain and deliver investor relations material",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://crawler.prod.quartr.cloud/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "qwantbot",
@@ -6470,7 +7111,8 @@
       "Mozilla/5.0 (compatible; Qwantbot-official/1.0; +https://www.qwant.com/)",
       "Mozilla/5.0 (compatible; Qwantbot-wikidata/1.0; +https://www.qwant.com/)",
       "Mozilla/5.0 (compatible; Qwantbot-opt/1.0; +Qwantbot@qwant.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "rackspace",
@@ -6486,7 +7128,8 @@
     ],
     "userAgents": [
       "Rackspace Monitoring/1.1 (https://monitoring.api.rackspacecloud.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "rakutenusabot-image",
@@ -6502,7 +7145,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; rakutenusabot-image/1.0) Chrome/114.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "razorpay-webhook-3",
@@ -6518,7 +7162,8 @@
     ],
     "userAgents": [
       "Razorpay"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "readable",
@@ -6534,7 +7179,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Readable/1.1.4"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "recurly",
@@ -6550,7 +7196,8 @@
     ],
     "userAgents": [
       "Recurly Webhooks/2.0 (+https://docs.recurly.com/push-notifications)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "redactus-proxy-service",
@@ -6562,7 +7209,8 @@
     "description": "Redactus Proxy Service: secure filtering proxy for safe and policy-controlled internet access.",
     "followsRobotsTxt": true,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://bot.redactus.co.uk/proxy/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "redactus-web-classifier",
@@ -6578,7 +7226,8 @@
     ],
     "userAgents": [
       "RedactusWebClassifier/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://bot.redactus.co.uk/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "reelevant",
@@ -6594,7 +7243,8 @@
     ],
     "userAgents": [
       "Reelevant/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "retool",
@@ -6610,7 +7260,8 @@
     ],
     "userAgents": [
       "Retool/2.0 (+https://docs.tryretool.com/docs/apis)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "retrolistecom",
@@ -6626,7 +7277,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; RetroListeCOM/1.0)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "revvim",
@@ -6642,7 +7294,8 @@
     ],
     "userAgents": [
       "Chrome/54.0.2840.71 (compatible; RevvimGort/5.0; +http://www.revvim.com; webmaster@revvim.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "reward-gateway",
@@ -6658,7 +7311,8 @@
     ],
     "userAgents": [
       "reward-gateway"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "rigor",
@@ -6674,7 +7328,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64; Rigor) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "robinbot",
@@ -6691,7 +7346,8 @@
     "userAgents": [
       "Robinbot/1.0",
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Robinbot/1.0; +https://www.robin.education) Chrome/131.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": "https://www.robin.education/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "rogerbot",
@@ -6707,7 +7363,8 @@
     ],
     "userAgents": [
       "rogerbot/1.2 (https://moz.com/help/guides/moz-procedures/what-is-rogerbot, rogerbot-crawler+aardwolf-production-crawler-01@moz.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "rss2tg-bot",
@@ -6723,7 +7380,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; rss2tg bot; +http://komar.in/en/rss2tg_crawler)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "rssapi",
@@ -6739,7 +7397,8 @@
     ],
     "userAgents": [
       "RSSAPI/2.0 (+https://rssapi.net/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ryebot",
@@ -6751,7 +7410,8 @@
     "description": "Agentic checkout assistant that purchases products on behalf of end users with their explicit consent.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://rye.xyz/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "salesforce",
@@ -6767,7 +7427,8 @@
     ],
     "userAgents": [
       "SFDC-Callout/49.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "salesviewer",
@@ -6783,7 +7444,8 @@
     ],
     "userAgents": [
       "page-preview-tool Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sansec-security-monitor",
@@ -6799,7 +7461,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Sansec Security Monitor/1.0; +https://sansec.io/monitor)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "scavobot",
@@ -6815,7 +7478,8 @@
     ],
     "userAgents": [
       "ScavoBot"
-    ]
+    ],
+    "signatureAgentUrl": "https://scavo.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "scour-rss-bot",
@@ -6833,7 +7497,8 @@
       "ScourRSSBot/1.0 (+https://scour.ing/bot)",
       "Scour/1.0 (+https://scour.ing/bot)",
       "ScourBot/1.0 (+https://scour.ing/bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "se-ranking-bot",
@@ -6849,7 +7514,8 @@
     ],
     "userAgents": [
       "SEBot-WA"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "searchatlas-bot",
@@ -6865,7 +7531,8 @@
     ],
     "userAgents": [
       "SearchAtlas Bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "securityheaders",
@@ -6881,7 +7548,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 SecurityHeaders"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "seekport",
@@ -6897,7 +7565,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SeekportBot; +https://bot.seekport.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-ba",
@@ -6913,7 +7582,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-bl",
@@ -6929,7 +7599,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-lb",
@@ -6945,7 +7616,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-sa",
@@ -6961,7 +7633,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot-SA/0.97; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-si",
@@ -6977,7 +7650,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot-SI/0.97; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-siteauditbot",
@@ -6994,7 +7668,8 @@
     "userAgents": [
       "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; SiteAuditBot/0.97; +http://www.semrush.com/bot.html)",
       "Mozilla/5.0 (compatible; SiteAuditBot/0.97; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrush-swa",
@@ -7010,7 +7685,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot-SWA/0.1; +http://www.semrush.com/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "semrushbot-ocob",
@@ -7026,7 +7702,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SemrushBot-OCOB/1; +https://www.semrush.com/bot/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sendgrid",
@@ -7042,7 +7719,8 @@
     ],
     "userAgents": [
       "SendGrid Event API"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sentry",
@@ -7058,7 +7736,8 @@
     ],
     "userAgents": [
       "sentry/10.0.0.dev0 (https://sentry.io)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sentry-uptime-monitoring",
@@ -7074,7 +7753,8 @@
     ],
     "userAgents": [
       "SentryUptimeBot/1.0 (+http://docs.sentry.io/product/alerts/uptime-monitoring/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "seo-audit-check-bot",
@@ -7090,7 +7770,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; seo-audit-check-bot/1.0)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "seo4ajax",
@@ -7106,7 +7787,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit (compatible; s4a/1.0; +https://www.seo4ajax.com/webscraper)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "seobilitybot",
@@ -7122,7 +7804,8 @@
     ],
     "userAgents": [
       "SeobilityBot (SEO Tool; https://www.seobility.net/sites/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sequelwpbpt",
@@ -7138,7 +7821,8 @@
     ],
     "userAgents": [
       "SequelWP Uptime Monitoring Bot. https://sequelwp.com.au"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "serankingbacklinksbot",
@@ -7154,7 +7838,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SERankingBacklinksBot/1.0; +https://seranking.com/backlinks-crawler)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "serpstatbot-6",
@@ -7174,7 +7859,8 @@
       "serpstatbot/1.0 (advanced backlink tracking bot; curl/7.58.0; http://serpstatbot.com/; abuse@serpstatbot.com)",
       "serpstatbot/2.0 alpha (advanced backlink tracking bot; curl/7.58.0; http://serpstatbot.com/; abuse@serpstatbot.com)",
       "serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "serverdensity",
@@ -7191,7 +7877,8 @@
     "userAgents": [
       "Server Density Service Monitoring v2",
       "Server Density Agent"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "serverhunter",
@@ -7207,7 +7894,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; ServerHunterSpider/1.1; +https://www.serverhunter.com/spider/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "seznam",
@@ -7223,7 +7911,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sharpbot",
@@ -7239,7 +7928,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ShapBot/0.1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "shopify-captain-hook",
@@ -7255,7 +7945,8 @@
     ],
     "userAgents": [
       "Shopify-Captain-Hook"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "shortwave-image-fetcher",
@@ -7271,7 +7962,8 @@
     ],
     "userAgents": [
       "Shortwave Image Fetcher"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "silktidebot",
@@ -7287,7 +7979,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SilktideBot/1.1; +https://help.silktide.com/en/articles/4606146-silktidebot-our-site-scanning-bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "silvestro",
@@ -7299,7 +7992,8 @@
     "description": "Silvestro/BrowserStream is a browser agent automating daily tasks for people and enterprises.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://browserstream.silverstream.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "site-search-360",
@@ -7315,7 +8009,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SiteSearch360/1.0; +https://sitesearch360.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "site24x7",
@@ -7332,7 +8027,8 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36 (site24x7)",
       "site24x7.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sitecheck-sitecrawl",
@@ -7348,7 +8044,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) SiteCheck-sitecrawl"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "siteimprove-linkcheck",
@@ -7364,7 +8061,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) LinkCheck by Siteimprove"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sitelock",
@@ -7380,7 +8078,8 @@
     ],
     "userAgents": [
       "SiteLockSpider"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "siteuptime",
@@ -7396,7 +8095,8 @@
     ],
     "userAgents": [
       "SiteUptime.com"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "skroutzbot",
@@ -7412,7 +8112,8 @@
     ],
     "userAgents": [
       "SkroutzBot v1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "skroutzimagebot",
@@ -7428,7 +8129,8 @@
     ],
     "userAgents": [
       "Skroutz ImageBot v1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "skypeuripreview",
@@ -7444,7 +8146,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "slackbot",
@@ -7460,7 +8163,8 @@
     ],
     "userAgents": [
       "Slackbot 1.0 (+https://api.slack.com/robots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "slackbotimg",
@@ -7476,7 +8180,8 @@
     ],
     "userAgents": [
       "Slack-ImgProxy (+https://api.slack.com/robots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "slickstream",
@@ -7492,7 +8197,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; SlickBot/1.0; +http://slickstream.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "slopsearch",
@@ -7508,7 +8214,8 @@
     ],
     "userAgents": [
       "slopsearch/1.0 (+https://search.sloppy.at/about)"
-    ]
+    ],
+    "signatureAgentUrl": "https://search.sloppy.at/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "smarsh",
@@ -7524,7 +8231,8 @@
     ],
     "userAgents": [
       "SmarshBot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "smartologybot-2",
@@ -7540,7 +8248,8 @@
     ],
     "userAgents": [
       "SmartologyBot/1.0 (+http://www.smartology.net/smartologybot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "smtnetpmbot",
@@ -7556,7 +8265,8 @@
     ],
     "userAgents": [
       "SMTnetPMBot/Nutch-1.16"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "snipcart",
@@ -7572,7 +8282,8 @@
     ],
     "userAgents": [
       "Snipcart/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "solarwinds-observability",
@@ -7588,7 +8299,8 @@
     ],
     "userAgents": [
       "solarwinds/1.0 ( www.solarwinds.com/solarwinds-observability)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sora-caisse-pos",
@@ -7604,7 +8316,8 @@
     ],
     "userAgents": [
       "Sora POS/1.0 (Sora Websoft)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "spark-shipping",
@@ -7620,7 +8333,8 @@
     ],
     "userAgents": [
       "SparkShipping"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sparkpost",
@@ -7636,7 +8350,8 @@
     ],
     "userAgents": [
       "SparkPost"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "spectate",
@@ -7652,7 +8367,8 @@
     ],
     "userAgents": [
       "Spectate/1.0 (+https://docs.spectate.net/faq/uptime-monitor-bot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "splunk-attack-analyzer",
@@ -7668,7 +8384,8 @@
     ],
     "userAgents": [
       "TwinWaveScanner"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "splunk-synthetics",
@@ -7684,7 +8401,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64; Splunk Synthetics) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.88 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "spyglasses-bot",
@@ -7706,7 +8424,8 @@
       "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) Page Title Fetcher",
       "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) Citation Resolver",
       "Mozilla/5.0 (compatible; SpyglassesBot/1.0; +https://spyglasses.io/docs/help/spyglasses-bot) AI Access Checker"
-    ]
+    ],
+    "signatureAgentUrl": "https://spyglasses.io/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "stape-scanner",
@@ -7723,7 +8442,8 @@
     "userAgents": [
       "Stape/1.0.0",
       "Stape"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "statabot",
@@ -7739,7 +8459,8 @@
     ],
     "userAgents": [
       "Statabot/1.0 https://www.stata.com/support/statabot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "statistikaustria",
@@ -7755,7 +8476,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; StatistikAustria/1.0; +http://www.statistik.gv.at)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "statsdronebot",
@@ -7771,7 +8493,8 @@
     ],
     "userAgents": [
       "StatsDroneBot (https://statsdrone.com/statsdrone-bot-documentation/) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "statuscake",
@@ -7788,7 +8511,8 @@
     "userAgents": [
       "statuscake uptime robot",
       "statuscake"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "steam-chat",
@@ -7805,7 +8529,8 @@
     "userAgents": [
       "Valve/Steam HTTP Client 1.0 (SteamChatURLLookup)",
       "SteamChatImageProxy"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "storebot-google",
@@ -7822,7 +8547,8 @@
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64; Storebot-Google/1.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
       "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012; Storebot-Google/1.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "stripe",
@@ -7838,7 +8564,26 @@
     ],
     "userAgents": [
       "Stripe/1.0 (+https://stripe.com/docs/webhooks)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "stripe-apple-pay-verify-ownership",
+    "name": "stripe_apple_pay_verify_ownership",
+    "kind": "BOT",
+    "operator": "Stripe",
+    "operatorUrl": "https://docs.stripe.com/payments/payment-methods/pmd-registration",
+    "category": "WEBHOOKS",
+    "description": "Verify ownership of your domain with Apple Pay",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "oslopartner Client"
+    ],
+    "userAgents": [
+      "oslopartner Client",
+      "oslopartner Client 1.0"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "stripebot",
@@ -7854,7 +8599,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux {version}) AppleWebKit/{version} (KHTML, like Gecko) Chrome/{version} Safari/{version} (Stripebot/{version}; +https://docs.stripe.com/stripebot-crawler)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "sucuri",
@@ -7870,7 +8616,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 MSIE 7.0; Sucuri Integrity Monitor/2.4"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "svix-webhooks",
@@ -7887,7 +8634,8 @@
     "userAgents": [
       "Svix-Webhooks/1.65.0 (sender-9YMgn; +https://www.svix.com/http-sender/)",
       "Webhooks/1.65.0 (sender-9YMgn)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "swifteq-link-checker",
@@ -7903,7 +8651,8 @@
     ],
     "userAgents": [
       "SwifteqLinkChecker"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "taboola",
@@ -7919,7 +8668,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Taboolabot/3.7; +http://www.taboola.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "telegrambot",
@@ -7935,7 +8685,8 @@
     ],
     "userAgents": [
       "TelegramBot (like TwitterBot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "termly",
@@ -7951,7 +8702,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Safari/537.36 (compatible; TermlyBot/W.X; +http://www.termly.io/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "termlybot-2",
@@ -7967,7 +8719,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Safari/537.36 (compatible; TermlyBot/W.X; +http://www.termly.io/bot.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "terracotta",
@@ -7984,7 +8737,25 @@
     "userAgents": [
       "Terracotta",
       "Terracotta-News"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "theskinnyai",
+    "name": "TheSkinnyAI",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://theskinnyai.com/bot-docs/",
+    "category": "AI_ASSISTANT",
+    "description": "An AI chatbot intended to help visitors to a website. Information from the user's own website is used to power the AI.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "TheSkinnyCrawler"
+    ],
+    "userAgents": [
+      "TheSkinnyCrawler, TheSkinnyCrawler/1.0"
+    ],
+    "signatureAgentUrl": "https://theskinnyai.com/bot-docs/keys/"
   },
   {
     "slug": "thousand-eyes",
@@ -8000,7 +8771,8 @@
     ],
     "userAgents": [
       "curl/7.58.0-DEV"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "trellis-services",
@@ -8016,7 +8788,8 @@
     ],
     "userAgents": [
       "Trellis-Services"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "trendictionbot",
@@ -8032,7 +8805,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; trendictionbot0.5.0; trendiction search; http://www.trendiction.de/bot; please let us know of any problems; web at trendiction.com) Gecko/20170101 Firefox/67.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "trustly",
@@ -8048,7 +8822,8 @@
     ],
     "userAgents": [
       "Trustly/1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ttd-content",
@@ -8064,7 +8839,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "turnitinbot",
@@ -8081,7 +8857,8 @@
     "userAgents": [
       "TurnitinBot/ContentIngest (http://www.turnitin.com/robot/crawlerinfo.html)",
       "Turnitin (https://bit.ly/2UvnfoQ)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "twilioproxy",
@@ -8097,7 +8874,8 @@
     ],
     "userAgents": [
       "TwilioProxy/1.1"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "twinagent",
@@ -8113,7 +8891,8 @@
     ],
     "userAgents": [
       "TwinAgent/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://signature-agents.twin.so/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "twitterbot",
@@ -8129,7 +8908,8 @@
     ],
     "userAgents": [
       "Twitterbot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "upday",
@@ -8145,7 +8925,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; upday/1.0; +upday)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "updown",
@@ -8161,7 +8942,25 @@
     ],
     "userAgents": [
       "updown.io daemon 2.2"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "upstash-qstash",
+    "name": "Upstash QStash",
+    "kind": "AGENT",
+    "operator": "Upstash",
+    "operatorUrl": "https://upstash.com/docs/qstash/overall/getstarted",
+    "category": "AI_ASSISTANT",
+    "description": "QStash serverless messaging and scheduling",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Upstash-QStash"
+    ],
+    "userAgents": [
+      "Upstash-QStash"
+    ],
+    "signatureAgentUrl": "https://upstash.com/docs/qstash/howto/signature"
   },
   {
     "slug": "uptime",
@@ -8177,7 +8976,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Uptime/1.0; http://uptime.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "uptime-monitoring",
@@ -8193,7 +8993,8 @@
     ],
     "userAgents": [
       "UptimeMonitoring"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "uptimebot",
@@ -8209,7 +9010,8 @@
     ],
     "userAgents": [
       "UptimeBot/1.0 EU-1 (+https://uptime.bot/hello)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "uptimerobot",
@@ -8225,7 +9027,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "uptimia",
@@ -8241,7 +9044,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Uptimia; www.uptimia.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "uptrends",
@@ -8257,7 +9061,8 @@
     ],
     "userAgents": [
       "uptrends"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "vaultpress",
@@ -8273,7 +9078,21 @@
     ],
     "userAgents": [
       "VaultPress"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "ventus-agent",
+    "name": "Ventus Agent",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://dev.ventus.ai/bot",
+    "category": "AI_ASSISTANT",
+    "description": "Ventus Agent is an AI-powered automation agent that performs web-based tasks on behalf of authenticated end users.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": [],
+    "signatureAgentUrl": "https://dev.ventus.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "videootvbot",
@@ -8289,7 +9108,25 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; videootvBot; +https://www.videoo.tv)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "virustotalscan",
+    "name": "VirusTotalScan",
+    "kind": "BOT",
+    "operator": "VirusTotal",
+    "operatorUrl": "https://www.virustotal.com",
+    "category": "SECURITY",
+    "description": "VirusTotal URL scanner visits URL submitted to VirusTotal.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "VirusTotalScan"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; VirusTotalScan/1.0; +https://www.virustotal.com)"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "visually-io-shopify-editor",
@@ -8301,7 +9138,8 @@
     "description": "Shopify theme editor alternative for live, real-time store editing via a secure iframe and controlled proxy.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://visually.io/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "w3-validator-services",
@@ -8317,7 +9155,8 @@
     ],
     "userAgents": [
       "W3C-checklink"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wardbot",
@@ -8333,7 +9172,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; WARDBot/1.0; http://ward.ai/robot)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "watchbot",
@@ -8349,7 +9189,8 @@
     ],
     "userAgents": [
       "Watchbot monitoring robot (https://watchbot.fflow.net)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "watchful",
@@ -8365,7 +9206,34 @@
     ],
     "userAgents": [
       "WebsiteOps (hello@websiteops.io)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "wave-streaming-platform",
+    "name": "WAVE Streaming Platform",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://wave.online",
+    "category": "AI_ASSISTANT",
+    "description": "AI browser agents for enterprise streaming platform automation via Kernel.sh cloud browsers",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": [],
+    "signatureAgentUrl": "https://wave-surfer-connect-staging.vercel.app/api/.well-known/http-message-signatures-directory"
+  },
+  {
+    "slug": "wave-streaming-platform-2",
+    "name": "WAVE Streaming Platform",
+    "kind": "AGENT",
+    "operator": null,
+    "operatorUrl": "https://wave.online",
+    "category": "AI_ASSISTANT",
+    "description": "AI browser agents for enterprise streaming platform automation via Kernel.sh cloud browsers",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [],
+    "userAgents": [],
+    "signatureAgentUrl": "https://wave.online/api/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "web-spider-mount",
@@ -8381,7 +9249,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; WSM/2.0; +https://webspidermount.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "webpagetest",
@@ -8398,7 +9267,8 @@
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0 monitor/webpagetest PTST/190827.180809",
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 monitor/webpagetest PTST/190827.180809"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "websitepulse",
@@ -8414,7 +9284,8 @@
     ],
     "userAgents": [
       "websitepulse checker/3.0 (compatible; MSIE 5.5; Netscape 4.75; Linux)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "webstatus247",
@@ -8430,7 +9301,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Webstatus247/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "webtotem",
@@ -8446,7 +9318,8 @@
     ],
     "userAgents": [
       "WTotemBot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wikimedia-citoid",
@@ -8462,7 +9335,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Citoid/WMF (mailto:noc@wikimedia.org)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wikimedia-zotero",
@@ -8478,7 +9352,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 ZoteroTranslationServer/WMF (mailto:noc@wikimedia.org)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wkndhealthcheckbot",
@@ -8494,7 +9369,8 @@
     ],
     "userAgents": [
       "wknd-bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wordcountbot",
@@ -8510,7 +9386,25 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; WordCountBot/0.1;)"
-    ]
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "wordfence-central",
+    "name": "Wordfence Central",
+    "kind": "BOT",
+    "operator": "Wordfence",
+    "operatorUrl": "https://www.wordfence.com/help/central/connect/#troubleshooting-connection-issues",
+    "category": "SECURITY",
+    "description": "Wordfence Central API connection for central management of Wordfence-protected sites.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Wordfence Central"
+    ],
+    "userAgents": [
+      "Wordfence Central API v1.0"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wordline",
@@ -8526,7 +9420,8 @@
     ],
     "userAgents": [
       "Mozilla/3.0 (compatible; Indy Library)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wordpress-namecheap",
@@ -8542,7 +9437,8 @@
     ],
     "userAgents": [
       "WordPress/5.5.1; https://cresiap.org.mx"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "worldpay",
@@ -8558,7 +9454,8 @@
     ],
     "userAgents": [
       "WJHRO/1.0 (WorldPay Java HTTP Request Object)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wormly",
@@ -8574,7 +9471,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; WormlyBot; +http://wormly.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wovn-crawler-3",
@@ -8590,7 +9488,8 @@
     ],
     "userAgents": [
       "WovnCrawler/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wp-time-capsule",
@@ -8606,7 +9505,8 @@
     ],
     "userAgents": [
       "WP Time Capsule API/1.0 ( https://cron.wptimecapsule.com/; https://service.wptimecapsule.com/ )"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wp-umbrella",
@@ -8622,7 +9522,8 @@
     ],
     "userAgents": [
       "WPUmbrella"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wp-umbrella-bot",
@@ -8638,7 +9539,8 @@
     ],
     "userAgents": [
       "umbrella bot"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wpmu-dev-broken-link-checker",
@@ -8654,7 +9556,8 @@
     ],
     "userAgents": [
       "WPMU DEV Broken Link Checker Spider"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "wpmudev-uptime-monitor-5-0",
@@ -8670,7 +9573,8 @@
     ],
     "userAgents": [
       "WPMUDEV Uptime Monitor 5.0 (https://wpmudev.com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "xy-archive-compliance-bot",
@@ -8687,7 +9591,8 @@
     "userAgents": [
       "Mozilla/5.0 (compatible; XY-Archive-Compliance-Crawler; +https://archive.xyplanningnetwork.com/)",
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 (compatible; XY-Archive-Compliance-Archiver; +https://archive.xyplanningnetwork.com/)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoo-japan",
@@ -8720,7 +9625,8 @@
       "Y!J-BRY/YATSH crawler",
       "Y!J-BRZ/YATSHA crawler",
       "YJ-SAD"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoo-jp-seo",
@@ -8737,7 +9643,8 @@
     ],
     "userAgents": [
       "Y!J-BRW/1.0 (https://support.yahoo-net.jp/PccSearch/s/article/H000007955)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoo-mail-proxy",
@@ -8753,7 +9660,8 @@
     ],
     "userAgents": [
       "YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahooadmonitor",
@@ -8769,7 +9677,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)  yahoo.adquality.lwd.desktop/1565637561-0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoocache",
@@ -8785,7 +9694,8 @@
     ],
     "userAgents": [
       "YahooCacheSystem; YahooWebServiceClient"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoojapan",
@@ -8801,7 +9711,8 @@
     ],
     "userAgents": [
       "Y!J-DLC/1.0 (https://support.yahoo-net.jp/PccSearch/s/article/H000007955)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoolinkpreview",
@@ -8817,7 +9728,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahoomailproxy",
@@ -8833,7 +9745,8 @@
     ],
     "userAgents": [
       "YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yahooslurp",
@@ -8849,7 +9762,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) sieve-gq1/1560642271-0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yandex",
@@ -8865,7 +9779,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "yextbot",
@@ -8881,7 +9796,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/87.0.4280.88 YextBot/Java Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "ygs-group-falconer-scraper",
@@ -8897,7 +9813,8 @@
     ],
     "userAgents": [
       "ygs-scraper-bot/1.0"
-    ]
+    ],
+    "signatureAgentUrl": "https://bot-signature.gregoryscottdev.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "yokoy-group",
@@ -8913,7 +9830,8 @@
     ],
     "userAgents": [
       "YokoyGroupAG/1.0"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "youbot",
@@ -8929,7 +9847,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; YouBot/1.0; +https://docs.you.com/youbot; env:prod) Chrome/X.X.X.X Safari/537.36"
-    ]
+    ],
+    "signatureAgentUrl": "https://you.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "zapier",
@@ -8945,7 +9864,8 @@
     ],
     "userAgents": [
       "Zapier"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "zendesk-webhook",
@@ -8961,7 +9881,8 @@
     ],
     "userAgents": [
       "Zendesk Webhook"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "zipchatbot",
@@ -8977,7 +9898,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) compatible; ZipchatBot/1.0; +https://zipchat.ai/bot"
-    ]
+    ],
+    "signatureAgentUrl": "https://app.zipchat.ai/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "zoominfobot",
@@ -8993,7 +9915,8 @@
     ],
     "userAgents": [
       "ZoominfoBot (zoominfobot at zoominfo dot com)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "zumbot",
@@ -9009,7 +9932,8 @@
     ],
     "userAgents": [
       "Mozilla/5.0 (compatible; ZumBot/1.0; http://help.zum.com/inquiry)"
-    ]
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "zvelo-bot",
@@ -9021,6 +9945,7 @@
     "description": "zvelo fetches content for web categorization.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [],
-    "userAgents": []
+    "userAgents": [],
+    "signatureAgentUrl": "https://fetch-bot.zvelo.io/.well-known/http-message-signatures-directory"
   }
 ]
