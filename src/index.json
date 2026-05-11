@@ -409,6 +409,23 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "alli-ai-bot",
+    "name": "Alli AI Bot",
+    "kind": "BOT",
+    "operator": "Alli AI",
+    "operatorUrl": "https://www.alliai.com",
+    "category": "SEARCH_ENGINE_OPTIMIZATION",
+    "description": "Alli AI bot crawls customer websites to generate SEO recommendations.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "AlliAI/1.0"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.0 Safari/537.36 AlliAI/1.0"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "amazon-bedrock-agentcore-browser-ap-northeast-1",
     "name": "Amazon Bedrock AgentCore Browser (AP Northeast)",
     "kind": "AGENT",
@@ -770,9 +787,9 @@
     "name": "Artemis Web Reader",
     "kind": "BOT",
     "operator": "capjamesg",
-    "operatorUrl": "artemis.jamesg.blog",
+    "operatorUrl": "https://artemis.jamesg.blog",
     "category": "FEED_FETCHER",
-    "description": "Artemis is a calm, independently-run, free web reader. The reader often runs into Cloudflare access blocks which makes it hard to follow many sites.",
+    "description": "Artemis Web Reader is a feed fetcher operated by capjamesg that polls web feeds (RSS, Atom, h-feed, AS2) for users of the Artemis web reader application.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
       "artemis web reader/"
@@ -1298,6 +1315,25 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "borderxbot-2",
+    "name": "BorderxBot",
+    "kind": "BOT",
+    "operator": "Borderxlab (Nubestore AI)",
+    "operatorUrl": "https://www.nubestore.ai",
+    "category": "AI_CRAWLER",
+    "description": "E-commerce product crawler operated by Borderxlab",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "BorderxBot"
+    ],
+    "userAgents": [
+      "BorderxBot/1.0 (+https://www.nubestore.ai/borderxbot.html)",
+      "BorderxBot/1.0 (compatible; +https://www.nubestore.ai/borderxbot.html)",
+      "Mozilla/5.0 (compatible; BorderxBot/1.0; +https://www.nubestore.ai/borderxbot.html)"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "botify",
     "name": "Botify",
     "kind": "BOT",
@@ -1361,6 +1397,23 @@
     "userAgentPatterns": [],
     "userAgents": [],
     "signatureAgentUrl": "https://www.browserbase.com/.well-known/http-message-signatures-directory"
+  },
+  {
+    "slug": "brynson-compliance-bot",
+    "name": "Brynson Compliance Bot",
+    "kind": "AGENT",
+    "operator": "Brynson",
+    "operatorUrl": "https://brynson.com",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Verifies that multifamily property websites display required fee disclosures under FTC Junk Fees Rule guidelines.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "BrynsonComplianceBot"
+    ],
+    "userAgents": [
+      "BrynsonComplianceBot/1.0"
+    ],
+    "signatureAgentUrl": "https://brynsights.brynson.com/.well-known/http-message-signatures-directory"
   },
   {
     "slug": "bufferlinkpreviewbot",
@@ -1717,6 +1770,23 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "claude-searchbot",
+    "name": "Claude-SearchBot",
+    "kind": "BOT",
+    "operator": "Anthropic",
+    "operatorUrl": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+    "category": "AI_SEARCH",
+    "description": "Claude-SearchBot navigates the web to improve search result quality for Claude users.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Claude-SearchBot"
+    ],
+    "userAgents": [
+      "Claude-SearchBot"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "cledara-saas-management-agent",
     "name": "Cledara SaaS Management Agent",
     "kind": "AGENT",
@@ -1769,7 +1839,7 @@
   },
   {
     "slug": "cloudflare-browser-rendering",
-    "name": "Cloudflare Browser Rendering",
+    "name": "Cloudflare Browser Run",
     "kind": "AGENT",
     "operator": "Cloudflare",
     "operatorUrl": "https://cloudflare.com",
@@ -2163,6 +2233,23 @@
     ],
     "userAgents": [
       "(+https://whatis.contentkingapp.com)"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "contentsquare-static-resource-scraper",
+    "name": "ContentSquare Static Resource Scraper",
+    "kind": "BOT",
+    "operator": "Contentsquare",
+    "operatorUrl": "https://www.contentsquare.com",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Contentsquare static asset scraper used for Zoning and Session Replay analytics.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "ContentSquare"
+    ],
+    "userAgents": [
+      "ContentSquare Static Resource Scraper"
     ],
     "signatureAgentUrl": null
   },
@@ -2739,6 +2826,23 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "dlvr-it-feed-fetcher",
+    "name": "dlvr.it Feed Fetcher",
+    "kind": "BOT",
+    "operator": "dlvr.it",
+    "operatorUrl": "https://dlvr.it",
+    "category": "SOCIAL_MEDIA_MARKETING",
+    "description": "dlvr.it RSS feed fetcher service.",
+    "followsRobotsTxt": true,
+    "userAgentPatterns": [
+      "dlvr.it/1.0"
+    ],
+    "userAgents": [
+      "dlvr.it/1.0 (+http://dlvr.it/fetcher)"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "dotbot",
     "name": "Moz dotbot",
     "kind": "BOT",
@@ -2989,6 +3093,23 @@
     ],
     "userAgents": [
       "elmahio-uptimebot/2.0"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
+    "slug": "embedly",
+    "name": "Embedly",
+    "kind": "BOT",
+    "operator": "Embedly",
+    "operatorUrl": "https://embed.ly",
+    "category": "PAGE_PREVIEW",
+    "description": "Embedly link preview service (operated by Medium) that fetches metadata and embeds for URLs.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Embedly"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)"
     ],
     "signatureAgentUrl": null
   },
@@ -5302,6 +5423,24 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "make-com-2",
+    "name": "Make.com",
+    "kind": "BOT",
+    "operator": "Make.com",
+    "operatorUrl": "https://www.make.com",
+    "category": "AI_CRAWLER",
+    "description": "Make.com workflow automation platform connector that fetches data from customer endpoints.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "make.com"
+    ],
+    "userAgents": [
+      "make.com",
+      "Make.com/production"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "make-platform",
     "name": "Make Platform",
     "kind": "BOT",
@@ -6255,6 +6394,23 @@
     "signatureAgentUrl": "https://bots.nostra.ai/.well-known/http-message-signatures-directory"
   },
   {
+    "slug": "notion-automation",
+    "name": "Notion Automation",
+    "kind": "BOT",
+    "operator": "Notion",
+    "operatorUrl": "https://www.notion.com",
+    "category": "WEBHOOKS",
+    "description": "Notion automation platform that delivers webhooks to customer endpoints.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "NotionAutomation"
+    ],
+    "userAgents": [
+      "NotionAutomation"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "novellum-ai-crawl",
     "name": "Novellum AI Crawl",
     "kind": "BOT",
@@ -6908,6 +7064,23 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "probely",
+    "name": "Probely",
+    "kind": "BOT",
+    "operator": "Probely",
+    "operatorUrl": "https://www.probely.com",
+    "category": "SECURITY",
+    "description": "Probely security scanner (DAST) that crawls customer websites to identify vulnerabilities.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "ProbelySPDR"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; +https://probely.com/sos) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36 ProbelySPDR/0.2.0"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "productsup-crawler",
     "name": "Productsup Crawler",
     "kind": "BOT",
@@ -7091,6 +7264,23 @@
     "userAgentPatterns": [],
     "userAgents": [],
     "signatureAgentUrl": "https://crawler.prod.quartr.cloud/.well-known/http-message-signatures-directory"
+  },
+  {
+    "slug": "quickpay-callback",
+    "name": "QuickPay Callback",
+    "kind": "BOT",
+    "operator": "QuickPay",
+    "operatorUrl": "https://quickpay.net",
+    "category": "WEBHOOKS",
+    "description": "QuickPay payment callback service that posts transaction notifications to merchant endpoints.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Quickpay Callback"
+    ],
+    "userAgents": [
+      "Quickpay Callback"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "qwantbot",
@@ -7994,6 +8184,23 @@
     "userAgentPatterns": [],
     "userAgents": [],
     "signatureAgentUrl": "https://browserstream.silverstream.ai/.well-known/http-message-signatures-directory"
+  },
+  {
+    "slug": "sistrix-optimizer",
+    "name": "SISTRIX Optimizer",
+    "kind": "BOT",
+    "operator": "SISTRIX GmbH",
+    "operatorUrl": "https://www.sistrix.com",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "SISTRIX Optimizer uptime monitor that requests customer site startpages once per minute to verify availability.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "SISTRIX Optimizer"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 (compatible; SISTRIX Optimizer; Uptime; +https://www.sistrix.com/faq/uptime)"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "site-search-360",
@@ -8997,6 +9204,23 @@
     "signatureAgentUrl": null
   },
   {
+    "slug": "uptime-robot",
+    "name": "Uptime Robot",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://uptimerobot.com/",
+    "category": "MONITORING_AND_ANALYTICS",
+    "description": "Uptime monitoring for web applications",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "UptimeRobot"
+    ],
+    "userAgents": [
+      "UptimeRobot"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "uptimebot",
     "name": "UptimeBot",
     "kind": "BOT",
@@ -9234,6 +9458,23 @@
     "userAgentPatterns": [],
     "userAgents": [],
     "signatureAgentUrl": "https://wave.online/api/.well-known/http-message-signatures-directory"
+  },
+  {
+    "slug": "wayflyer",
+    "name": "Wayflyer",
+    "kind": "BOT",
+    "operator": "Wayflyer",
+    "operatorUrl": "https://www.wayflyer.com",
+    "category": "OTHER",
+    "description": "Wayflyer integration that connects to customer storefronts to retrieve transaction data.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "Wayflyer"
+    ],
+    "userAgents": [
+      "Wayflyer/1.0"
+    ],
+    "signatureAgentUrl": null
   },
   {
     "slug": "web-spider-mount",
