@@ -6428,6 +6428,23 @@
     "signatureAgentUrl": "https://crawl.corp.novellum.ai/.well-known/http-message-signatures-directory"
   },
   {
+    "slug": "oai-adsbot",
+    "name": "OAI-AdsBot",
+    "kind": "BOT",
+    "operator": null,
+    "operatorUrl": "https://developers.openai.com/api/docs/bots",
+    "category": "ADVERTISING_AND_MARKETING",
+    "description": "OAI-AdsBot is used to validate the safety of web pages submitted as ads on ChatGPT.",
+    "followsRobotsTxt": false,
+    "userAgentPatterns": [
+      "OAI-AdsBot"
+    ],
+    "userAgents": [
+      "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-AdsBot/1.0; +https://openai.com/adsbot"
+    ],
+    "signatureAgentUrl": null
+  },
+  {
     "slug": "oai-searchbot",
     "name": "OAI-SearchBot",
     "kind": "BOT",
@@ -8105,12 +8122,12 @@
     "signatureAgentUrl": null
   },
   {
-    "slug": "sharpbot",
+    "slug": "shapbot",
     "name": "ShapBot",
     "kind": "BOT",
     "operator": "Parallel",
     "operatorUrl": "https://docs.parallel.ai/features/crawler",
-    "category": "AI_CRAWLER",
+    "category": "AI_SEARCH",
     "description": "ShapBot helps discover and index websites for Parallel's web APIs.",
     "followsRobotsTxt": false,
     "userAgentPatterns": [
